@@ -1,0 +1,5974 @@
+{
+  "v1_analysis": {
+    "total_files": 71,
+    "files_found": [
+      "jsoninicial_go2b_knowledge_base.json",
+      "jsoninicial_evidencias_all.json",
+      "jsoninicial_RecuperacaoJudicialProcessosJudicialAnalise.json",
+      "jsoninicial_fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs01.json",
+      "jsoninicial_MEGA_CONTEXT.json",
+      "jsoninicial_artefatos.json",
+      "jsoninicial_PosicionamentoPL-QuestionamentosAgo2024.json",
+      "jsoninicial_PosicionamentoPL-QuestionamentosJul2024.json",
+      "jsoninicial_chatsclaudeprojeto.json",
+      "jsoninicial_go2b_vectorizer_config.json",
+      "jsoninicial_temporal_index.json",
+      "jsoninicial_PosicionamentoPL-SuspensaoQuestionados.json",
+      "jsoninicial_deep_memory.json",
+      "jsoninicial_index_metadata.json",
+      "jsoninicial_memoriainstitucional.json",
+      "jsoninicial_RoteiroeAnexosTodos26082025.json",
+      "jsoninicial_link_lists.json",
+      "jsoninicial_ProcessoqueResultouApropriacaoCredito-Dirceu.json",
+      "jsoninicial_MEMORY_GO2B_RECONCILIADO_API_v5.json",
+      "jsoninicial_chroma.json",
+      "jsoninicial_anexo_fluxo_dinheiro.json",
+      "jsoninicial_ProcessoqueResultouApropriacaoCredito-Dagoberto.json",
+      "jsoninicial_length.json",
+      "jsoninicial_AvRJGrok-01.json",
+      "jsoninicial_BaseRevisaoInteligence.json",
+      "jsoninicial_go2b_lexical_index.json",
+      "jsoninicial_go2b_lookup.json",
+      "jsoninicial_RelatorioTrocaDNS19052025.json",
+      "jsoninicial_fusaoartefatos_a_b_c_Incompletovsclaude.json",
+      "jsoninicial_EstrategiasePilaresJun25Consol.json",
+      "jsoninicial_go2b_kb.json",
+      "jsoninicial_go2b_faiss.json",
+      "jsoninicial_documentosbaseconhecimento.json",
+      "jsoninicial_matrix_summary.json",
+      "jsoninicial_go2b_analyses.json",
+      "jsoninicial_anexo_tabela_violacoes.json",
+      "jsoninicial_matriz_unificada_go2b_v7.json",
+      "jsoninicial_AvRJGrok-02.json",
+      "jsoninicial_relatorio_fases_complemento_dossie-mafia-judicial-go2b.json",
+      "jsoninicial_ModeloInteligenciaCorrelacoesConfianca.json",
+      "jsoninicial_knowledge_index.json",
+      "jsoninicial_ContratoRecupJudicial.json",
+      "jsoninicial_AvRJGrok-03.json",
+      "jsoninicial_memory_prompt_claude.json",
+      "jsoninicial_ContextoeHistoricoImp.json",
+      "jsoninicial_go2b_embeddings_meta.json",
+      "jsoninicial_Dez2023NegociacaoInicialCtoRJ.json",
+      "jsoninicial_go2b_kb_for_bm25_cache.json",
+      "jsoninicial_Go2b-InstitucionalGPT.json",
+      "jsoninicial_proposed_architecture.json",
+      "jsoninicial_anexo_degradacao.json",
+      "jsoninicial_relatorio_fases_1_2_3_4_consolidadoCompletoTemas.json",
+      "jsoninicial_evidence_index.json",
+      "jsoninicial_header.json",
+      "jsoninicial_data_level0.json",
+      "jsoninicial_PadraoAtuacaoPL-Dagoberto-Exemplo.json",
+      "jsoninicial_fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs02.json",
+      "jsoninicial_DagobertoPadraoPL.-Diversos.json",
+      "jsoninicial_actor_index.json",
+      "jsoninicial_memory_config.json",
+      "jsoninicial_PosicionamentoPL-QuestionamentosSet2024.json",
+      "jsoninicial_go2b_memoria_institucional.json",
+      "jsoninicial_MPF-JuntadaAutosECT-Completo-vs25082025.json",
+      "jsoninicial_ImagensQuestoesResponder.json",
+      "jsoninicial_Peticao09062025-1039604-94.2023.8.26.0405.json",
+      "jsoninicial_DOCCEN-HistoricoContexto.json"
+    ],
+    "doc_coverage": {
+      "doc29": true,
+      "doc20": true,
+      "doc70": true,
+      "doc21": true,
+      "doc46": true,
+      "doc05": true,
+      "doc54": true,
+      "doc55": true,
+      "doc50": true,
+      "doc33": true,
+      "doc65": true,
+      "doc57": true,
+      "doc14": true,
+      "doc37": true,
+      "doc47": true,
+      "doc68": true,
+      "doc42": true,
+      "doc60": true,
+      "doc71": true,
+      "doc09": true,
+      "doc03": true,
+      "doc59": true,
+      "doc41": true,
+      "doc06": true,
+      "doc69": true,
+      "doc30": true,
+      "doc31": true,
+      "doc64": true,
+      "doc18": true,
+      "doc26": true,
+      "doc25": true,
+      "doc17": true,
+      "doc44": true,
+      "doc23": true,
+      "doc04": true,
+      "doc45": true,
+      "doc07": true,
+      "doc63": true,
+      "doc73": true,
+      "doc38": true,
+      "doc11": true,
+      "doc08": true,
+      "doc66": true,
+      "doc49": true,
+      "doc24": true,
+      "doc15": true,
+      "doc34": true,
+      "doc61": true,
+      "doc02": true,
+      "doc62": true,
+      "doc19": true,
+      "doc35": true,
+      "doc13": true,
+      "doc52": true,
+      "doc67": true,
+      "doc12": true,
+      "doc01": true,
+      "doc48": true,
+      "doc56": true,
+      "doc32": true,
+      "doc51": true,
+      "doc36": true,
+      "doc53": true,
+      "doc16": true
+    },
+    "content_analysis": {
+      "doc29": {
+        "doc_id": "doc29",
+        "version": "V1",
+        "size_kb": 3.171875,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc20": {
+        "doc_id": "doc20",
+        "version": "V1",
+        "size_kb": 0.962890625,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc70": {
+        "doc_id": "doc70",
+        "version": "V1",
+        "size_kb": 191.693359375,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc21": {
+        "doc_id": "doc21",
+        "version": "V1",
+        "size_kb": 2.8310546875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc46": {
+        "doc_id": "doc46",
+        "version": "V1",
+        "size_kb": 6.2880859375,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc05": {
+        "doc_id": "doc05",
+        "version": "V1",
+        "size_kb": 10.263671875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": true,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc54": {
+        "doc_id": "doc54",
+        "version": "V1",
+        "size_kb": 4.365234375,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc55": {
+        "doc_id": "doc55",
+        "version": "V1",
+        "size_kb": 3.3369140625,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc50": {
+        "doc_id": "doc50",
+        "version": "V1",
+        "size_kb": 2.50390625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc33": {
+        "doc_id": "doc33",
+        "version": "V1",
+        "size_kb": 0.3388671875,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc65": {
+        "doc_id": "doc65",
+        "version": "V1",
+        "size_kb": 0.1708984375,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc57": {
+        "doc_id": "doc57",
+        "version": "V1",
+        "size_kb": 2.9052734375,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc14": {
+        "doc_id": "doc14",
+        "version": "V1",
+        "size_kb": 0.9482421875,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc37": {
+        "doc_id": "doc37",
+        "version": "V1",
+        "size_kb": 0.052734375,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc47": {
+        "doc_id": "doc47",
+        "version": "V1",
+        "size_kb": 3.6416015625,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc68": {
+        "doc_id": "doc68",
+        "version": "V1",
+        "size_kb": 2426.041015625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc42": {
+        "doc_id": "doc42",
+        "version": "V1",
+        "size_kb": 0.0458984375,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc60": {
+        "doc_id": "doc60",
+        "version": "V1",
+        "size_kb": 4.380859375,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc71": {
+        "doc_id": "doc71",
+        "version": "V1",
+        "size_kb": 9.7294921875,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": true,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc09": {
+        "doc_id": "doc09",
+        "version": "V1",
+        "size_kb": 3.5166015625,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc03": {
+        "doc_id": "doc03",
+        "version": "V1",
+        "size_kb": 0.212890625,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc59": {
+        "doc_id": "doc59",
+        "version": "V1",
+        "size_kb": 4.3681640625,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc41": {
+        "doc_id": "doc41",
+        "version": "V1",
+        "size_kb": 0.0419921875,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc06": {
+        "doc_id": "doc06",
+        "version": "V1",
+        "size_kb": 4.6337890625,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc69": {
+        "doc_id": "doc69",
+        "version": "V1",
+        "size_kb": 27.7412109375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc30": {
+        "doc_id": "doc30",
+        "version": "V1",
+        "size_kb": 0.7021484375,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc31": {
+        "doc_id": "doc31",
+        "version": "V1",
+        "size_kb": 1.4228515625,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc64": {
+        "doc_id": "doc64",
+        "version": "V1",
+        "size_kb": 1.4462890625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc18": {
+        "doc_id": "doc18",
+        "version": "V1",
+        "size_kb": 3.396484375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc26": {
+        "doc_id": "doc26",
+        "version": "V1",
+        "size_kb": 0.1923828125,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc25": {
+        "doc_id": "doc25",
+        "version": "V1",
+        "size_kb": 0.0478515625,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc17": {
+        "doc_id": "doc17",
+        "version": "V1",
+        "size_kb": 3.7373046875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc44": {
+        "doc_id": "doc44",
+        "version": "V1",
+        "size_kb": 0.52734375,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc23": {
+        "doc_id": "doc23",
+        "version": "V1",
+        "size_kb": 2.408203125,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc04": {
+        "doc_id": "doc04",
+        "version": "V1",
+        "size_kb": 3.6328125,
+        "fields_count": 6,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc45": {
+        "doc_id": "doc45",
+        "version": "V1",
+        "size_kb": 91.9560546875,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc07": {
+        "doc_id": "doc07",
+        "version": "V1",
+        "size_kb": 5.193359375,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc63": {
+        "doc_id": "doc63",
+        "version": "V1",
+        "size_kb": 5.056640625,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc73": {
+        "doc_id": "doc73",
+        "version": "V1",
+        "size_kb": 6.744140625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc38": {
+        "doc_id": "doc38",
+        "version": "V1",
+        "size_kb": 0.17578125,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc11": {
+        "doc_id": "doc11",
+        "version": "V1",
+        "size_kb": 4.28515625,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc08": {
+        "doc_id": "doc08",
+        "version": "V1",
+        "size_kb": 2.7958984375,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc66": {
+        "doc_id": "doc66",
+        "version": "V1",
+        "size_kb": 3.3828125,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc49": {
+        "doc_id": "doc49",
+        "version": "V1",
+        "size_kb": 2.919921875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc24": {
+        "doc_id": "doc24",
+        "version": "V1",
+        "size_kb": 0.521484375,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc15": {
+        "doc_id": "doc15",
+        "version": "V1",
+        "size_kb": 2.869140625,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc34": {
+        "doc_id": "doc34",
+        "version": "V1",
+        "size_kb": 2.708984375,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc61": {
+        "doc_id": "doc61",
+        "version": "V1",
+        "size_kb": 0.6669921875,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc02": {
+        "doc_id": "doc02",
+        "version": "V1",
+        "size_kb": 0.2158203125,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc62": {
+        "doc_id": "doc62",
+        "version": "V1",
+        "size_kb": 3.9189453125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc19": {
+        "doc_id": "doc19",
+        "version": "V1",
+        "size_kb": 0.1728515625,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc35": {
+        "doc_id": "doc35",
+        "version": "V1",
+        "size_kb": 0.0419921875,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc13": {
+        "doc_id": "doc13",
+        "version": "V1",
+        "size_kb": 0.046875,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc52": {
+        "doc_id": "doc52",
+        "version": "V1",
+        "size_kb": 2.8740234375,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc67": {
+        "doc_id": "doc67",
+        "version": "V1",
+        "size_kb": 2.4140625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc12": {
+        "doc_id": "doc12",
+        "version": "V1",
+        "size_kb": 5.341796875,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc01": {
+        "doc_id": "doc01",
+        "version": "V1",
+        "size_kb": 0.166015625,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc48": {
+        "doc_id": "doc48",
+        "version": "V1",
+        "size_kb": 0.533203125,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc56": {
+        "doc_id": "doc56",
+        "version": "V1",
+        "size_kb": 4.65234375,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc32": {
+        "doc_id": "doc32",
+        "version": "V1",
+        "size_kb": 4.041015625,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc51": {
+        "doc_id": "doc51",
+        "version": "V1",
+        "size_kb": 3.61328125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc36": {
+        "doc_id": "doc36",
+        "version": "V1",
+        "size_kb": 0.2138671875,
+        "fields_count": 5,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc53": {
+        "doc_id": "doc53",
+        "version": "V1",
+        "size_kb": 5.3115234375,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_inicial": true,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      },
+      "doc16": {
+        "doc_id": "doc16",
+        "version": "V1",
+        "size_kb": 3.3505859375,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_inicial": false,
+          "has_verdades_aplicadas": false,
+          "has_reconciliacao": false,
+          "content_type": "analise_inicial"
+        }
+      }
+    },
+    "structure_validation": {},
+    "errors": []
+  },
+  "v2_analysis": {
+    "total_files": 71,
+    "files_found": [
+      "reconciliado_chatsclaudeprojeto.json",
+      "reconciliado_go2b_embeddings_meta.json",
+      "reconciliado_go2b_kb_for_bm25_cache.json",
+      "reconciliado_memory_prompt_claude.json",
+      "reconciliado_go2b_memoria_institucional.json",
+      "reconciliado_AvRJGrok-02.json",
+      "reconciliado_fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs02.json",
+      "reconciliado_PosicionamentoPL-QuestionamentosSet2024.json",
+      "reconciliado_AvRJGrok-03.json",
+      "reconciliado_PosicionamentoPL-SuspensaoQuestionados.json",
+      "reconciliado_MPF-JuntadaAutosECT-Completo-vs25082025.json",
+      "reconciliado_EstrategiasePilaresJun25Consol.json",
+      "reconciliado_matriz_unificada_go2b_v7.json",
+      "reconciliado_index_metadata.json",
+      "reconciliado_anexo_degradacao.json",
+      "reconciliado_go2b_lexical_index.json",
+      "reconciliado_temporal_index.json",
+      "reconciliado_MEMORY_GO2B_RECONCILIADO_API_v5.json",
+      "reconciliado_ImagensQuestoesResponder.json",
+      "reconciliado_DOCCEN-HistoricoContexto.json",
+      "reconciliado_fusaoartefatos_a_b_c_Incompletovsclaude.json",
+      "reconciliado_chroma.json",
+      "reconciliado_anexo_tabela_violacoes.json",
+      "reconciliado_RoteiroeAnexosTodos26082025.json",
+      "reconciliado_data_level0.json",
+      "reconciliado_link_lists.json",
+      "reconciliado_length.json",
+      "reconciliado_evidencias_all.json",
+      "reconciliado_documentosbaseconhecimento.json",
+      "reconciliado_actor_index.json",
+      "reconciliado_go2b_kb.json",
+      "reconciliado_artefatos.json",
+      "reconciliado_proposed_architecture.json",
+      "reconciliado_ModeloInteligenciaCorrelacoesConfianca.json",
+      "reconciliado_knowledge_index.json",
+      "reconciliado_Go2b-InstitucionalGPT.json",
+      "reconciliado_go2b_knowledge_base.json",
+      "reconciliado_evidence_index.json",
+      "reconciliado_BaseRevisaoInteligence.json",
+      "reconciliado_relatorio_fases_complemento_dossie-mafia-judicial-go2b.json",
+      "reconciliado_RelatorioTrocaDNS19052025.json",
+      "reconciliado_go2b_faiss.json",
+      "reconciliado_PadraoAtuacaoPL-Dagoberto-Exemplo.json",
+      "reconciliado_deep_memory.json",
+      "reconciliado_go2b_analyses.json",
+      "reconciliado_RecuperacaoJudicialProcessosJudicialAnalise.json",
+      "reconciliado_ProcessoqueResultouApropriacaoCredito-Dagoberto.json",
+      "reconciliado_memory_config.json",
+      "reconciliado_anexo_fluxo_dinheiro.json",
+      "reconciliado_Peticao09062025-1039604-94.2023.8.26.0405.json",
+      "reconciliado_MEGA_CONTEXT.json",
+      "reconciliado_Dez2023NegociacaoInicialCtoRJ.json",
+      "reconciliado_PosicionamentoPL-QuestionamentosJul2024.json",
+      "reconciliado_AvRJGrok-01.json",
+      "reconciliado_fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs01.json",
+      "reconciliado_ProcessoqueResultouApropriacaoCredito-Dirceu.json",
+      "reconciliado_matrix_summary.json",
+      "reconciliado_header.json",
+      "reconciliado_DagobertoPadraoPL.-Diversos.json",
+      "reconciliado_go2b_vectorizer_config.json",
+      "reconciliado_go2b_lookup.json",
+      "reconciliado_memoriainstitucional.json",
+      "reconciliado_ContextoeHistoricoImp.json",
+      "reconciliado_relatorio_fases_1_2_3_4_consolidadoCompletoTemas.json",
+      "reconciliado_PosicionamentoPL-QuestionamentosAgo2024.json",
+      "reconciliado_ContratoRecupJudicial.json"
+    ],
+    "doc_coverage": {
+      "doc50": true,
+      "doc24": true,
+      "doc26": true,
+      "doc66": true,
+      "doc32": true,
+      "doc07": true,
+      "doc67": true,
+      "doc56": true,
+      "doc08": true,
+      "doc57": true,
+      "doc51": true,
+      "doc18": true,
+      "doc45": true,
+      "doc37": true,
+      "doc02": true,
+      "doc30": true,
+      "doc65": true,
+      "doc71": true,
+      "doc36": true,
+      "doc16": true,
+      "doc05": true,
+      "doc09": true,
+      "doc04": true,
+      "doc68": true,
+      "doc13": true,
+      "doc42": true,
+      "doc41": true,
+      "doc20": true,
+      "doc17": true,
+      "doc01": true,
+      "doc61": true,
+      "doc73": true,
+      "doc38": true,
+      "doc34": true,
+      "doc29": true,
+      "doc19": true,
+      "doc69": true,
+      "doc63": true,
+      "doc64": true,
+      "doc25": true,
+      "doc52": true,
+      "doc14": true,
+      "doc23": true,
+      "doc59": true,
+      "doc48": true,
+      "doc03": true,
+      "doc53": true,
+      "doc46": true,
+      "doc15": true,
+      "doc55": true,
+      "doc06": true,
+      "doc21": true,
+      "doc60": true,
+      "doc44": true,
+      "doc35": true,
+      "doc12": true,
+      "doc33": true,
+      "doc31": true,
+      "doc47": true,
+      "doc49": true,
+      "doc62": true,
+      "doc54": true,
+      "doc11": true
+    },
+    "content_analysis": {
+      "doc50": {
+        "doc_id": "doc50",
+        "version": "V2",
+        "size_kb": 3.0078125,
+        "fields_count": 6,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc24": {
+        "doc_id": "doc24",
+        "version": "V2",
+        "size_kb": 1.025390625,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc26": {
+        "doc_id": "doc26",
+        "version": "V2",
+        "size_kb": 8.5546875,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc66": {
+        "doc_id": "doc66",
+        "version": "V2",
+        "size_kb": 3.869140625,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc32": {
+        "doc_id": "doc32",
+        "version": "V2",
+        "size_kb": 4.53125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc07": {
+        "doc_id": "doc07",
+        "version": "V2",
+        "size_kb": 5.68359375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc67": {
+        "doc_id": "doc67",
+        "version": "V2",
+        "size_kb": 2.916015625,
+        "fields_count": 6,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc56": {
+        "doc_id": "doc56",
+        "version": "V2",
+        "size_kb": 5.142578125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc08": {
+        "doc_id": "doc08",
+        "version": "V2",
+        "size_kb": 3.2861328125,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc57": {
+        "doc_id": "doc57",
+        "version": "V2",
+        "size_kb": 3.3955078125,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc51": {
+        "doc_id": "doc51",
+        "version": "V2",
+        "size_kb": 4.103515625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc18": {
+        "doc_id": "doc18",
+        "version": "V2",
+        "size_kb": 3.88671875,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc45": {
+        "doc_id": "doc45",
+        "version": "V2",
+        "size_kb": 92.4482421875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc37": {
+        "doc_id": "doc37",
+        "version": "V2",
+        "size_kb": 0.556640625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc02": {
+        "doc_id": "doc02",
+        "version": "V2",
+        "size_kb": 0.7197265625,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc30": {
+        "doc_id": "doc30",
+        "version": "V2",
+        "size_kb": 1.2060546875,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc65": {
+        "doc_id": "doc65",
+        "version": "V2",
+        "size_kb": 0.6748046875,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc71": {
+        "doc_id": "doc71",
+        "version": "V2",
+        "size_kb": 9.7294921875,
+        "fields_count": 3,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": false,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc36": {
+        "doc_id": "doc36",
+        "version": "V2",
+        "size_kb": 0.7177734375,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc16": {
+        "doc_id": "doc16",
+        "version": "V2",
+        "size_kb": 3.8408203125,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc05": {
+        "doc_id": "doc05",
+        "version": "V2",
+        "size_kb": 5.3974609375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc09": {
+        "doc_id": "doc09",
+        "version": "V2",
+        "size_kb": 4.0205078125,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc04": {
+        "doc_id": "doc04",
+        "version": "V2",
+        "size_kb": 4.13671875,
+        "fields_count": 8,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc68": {
+        "doc_id": "doc68",
+        "version": "V2",
+        "size_kb": 2426.041015625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": false,
+          "has_paradoxos_corrigidos": false,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc13": {
+        "doc_id": "doc13",
+        "version": "V2",
+        "size_kb": 0.55078125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc42": {
+        "doc_id": "doc42",
+        "version": "V2",
+        "size_kb": 0.5498046875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc41": {
+        "doc_id": "doc41",
+        "version": "V2",
+        "size_kb": 0.5458984375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc20": {
+        "doc_id": "doc20",
+        "version": "V2",
+        "size_kb": 1.466796875,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc17": {
+        "doc_id": "doc17",
+        "version": "V2",
+        "size_kb": 4.2275390625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc01": {
+        "doc_id": "doc01",
+        "version": "V2",
+        "size_kb": 0.669921875,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc61": {
+        "doc_id": "doc61",
+        "version": "V2",
+        "size_kb": 1.1708984375,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc73": {
+        "doc_id": "doc73",
+        "version": "V2",
+        "size_kb": 5.6416015625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc38": {
+        "doc_id": "doc38",
+        "version": "V2",
+        "size_kb": 0.6796875,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc34": {
+        "doc_id": "doc34",
+        "version": "V2",
+        "size_kb": 3.19921875,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc29": {
+        "doc_id": "doc29",
+        "version": "V2",
+        "size_kb": 3.67578125,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc19": {
+        "doc_id": "doc19",
+        "version": "V2",
+        "size_kb": 0.6767578125,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc69": {
+        "doc_id": "doc69",
+        "version": "V2",
+        "size_kb": 27.7412109375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": false,
+          "has_paradoxos_corrigidos": false,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc63": {
+        "doc_id": "doc63",
+        "version": "V2",
+        "size_kb": 5.546875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc64": {
+        "doc_id": "doc64",
+        "version": "V2",
+        "size_kb": 1.9501953125,
+        "fields_count": 6,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc25": {
+        "doc_id": "doc25",
+        "version": "V2",
+        "size_kb": 0.5517578125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc52": {
+        "doc_id": "doc52",
+        "version": "V2",
+        "size_kb": 3.3642578125,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc14": {
+        "doc_id": "doc14",
+        "version": "V2",
+        "size_kb": 1.4521484375,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc23": {
+        "doc_id": "doc23",
+        "version": "V2",
+        "size_kb": 2.912109375,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc59": {
+        "doc_id": "doc59",
+        "version": "V2",
+        "size_kb": 4.8583984375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc48": {
+        "doc_id": "doc48",
+        "version": "V2",
+        "size_kb": 1.037109375,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc03": {
+        "doc_id": "doc03",
+        "version": "V2",
+        "size_kb": 0.716796875,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc53": {
+        "doc_id": "doc53",
+        "version": "V2",
+        "size_kb": 5.8017578125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc46": {
+        "doc_id": "doc46",
+        "version": "V2",
+        "size_kb": 61.3671875,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": false,
+          "has_paradoxos_corrigidos": false,
+          "preservacao_100_pct": false,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc15": {
+        "doc_id": "doc15",
+        "version": "V2",
+        "size_kb": 3.359375,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc55": {
+        "doc_id": "doc55",
+        "version": "V2",
+        "size_kb": 3.8271484375,
+        "fields_count": 9,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc06": {
+        "doc_id": "doc06",
+        "version": "V2",
+        "size_kb": 5.1240234375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc21": {
+        "doc_id": "doc21",
+        "version": "V2",
+        "size_kb": 3.3212890625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc60": {
+        "doc_id": "doc60",
+        "version": "V2",
+        "size_kb": 4.87109375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc44": {
+        "doc_id": "doc44",
+        "version": "V2",
+        "size_kb": 1.03125,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc35": {
+        "doc_id": "doc35",
+        "version": "V2",
+        "size_kb": 0.5458984375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc12": {
+        "doc_id": "doc12",
+        "version": "V2",
+        "size_kb": 5.83203125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc33": {
+        "doc_id": "doc33",
+        "version": "V2",
+        "size_kb": 0.8427734375,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc31": {
+        "doc_id": "doc31",
+        "version": "V2",
+        "size_kb": 1.9267578125,
+        "fields_count": 7,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc47": {
+        "doc_id": "doc47",
+        "version": "V2",
+        "size_kb": 4.1318359375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc49": {
+        "doc_id": "doc49",
+        "version": "V2",
+        "size_kb": 3.423828125,
+        "fields_count": 6,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc62": {
+        "doc_id": "doc62",
+        "version": "V2",
+        "size_kb": 4.4091796875,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_analise_reconciliada": false,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc54": {
+        "doc_id": "doc54",
+        "version": "V2",
+        "size_kb": 4.85546875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      },
+      "doc11": {
+        "doc_id": "doc11",
+        "version": "V2",
+        "size_kb": 4.775390625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_analise_reconciliada": true,
+          "has_verdades_aplicadas": false,
+          "has_metadata_reconciliacao": true,
+          "has_paradoxos_corrigidos": true,
+          "preservacao_100_pct": true,
+          "content_type": "reconciliada_base"
+        }
+      }
+    },
+    "structure_validation": {},
+    "errors": [
+      "Erro ao processar reconciliado_RecuperacaoJudicialProcessosJudicialAnalise.json: Extra data: line 1327 column 1 (char 92476)"
+    ]
+  },
+  "v3_analysis": {
+    "total_files": 71,
+    "files_found": [
+      "analiseparadoxo_Dez2023NegociacaoInicialCtoRJ.json",
+      "analiseparadoxo_Go2b-InstitucionalGPT.json",
+      "analiseparadoxo_index_metadata.json",
+      "analiseparadoxo_go2b_vectorizer_config.json",
+      "analiseparadoxo_length.json",
+      "analiseparadoxo_DOCCEN-HistoricoContexto.json",
+      "analiseparadoxo_proposed_architecture.json",
+      "analiseparadoxo_go2b_memoria_institucional.json",
+      "analiseparadoxo_ImagensQuestoesResponder.json",
+      "analiseparadoxo_fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs01.json",
+      "analiseparadoxo_PosicionamentoPL-QuestionamentosAgo2024.json",
+      "analiseparadoxo_chroma.json",
+      "analiseparadoxo_actor_index.json",
+      "analiseparadoxo_RelatorioTrocaDNS19052025.json",
+      "analiseparadoxo_link_lists.json",
+      "analiseparadoxo_ModeloInteligenciaCorrelacoesConfianca.json",
+      "analiseparadoxo_MEGA_CONTEXT.json",
+      "analiseparadoxo_EstrategiasePilaresJun25Consol.json",
+      "analiseparadoxo_data_level0.json",
+      "analiseparadoxo_PosicionamentoPL-QuestionamentosJul2024.json",
+      "analiseparadoxo_evidencias_all.json",
+      "analiseparadoxo_ProcessoqueResultouApropriacaoCredito-Dirceu.json",
+      "analiseparadoxo_go2b_embeddings_meta.json",
+      "analiseparadoxo_AvRJGrok-02.json",
+      "analiseparadoxo_relatorio_fases_complemento_dossie-mafia-judicial-go2b.json",
+      "analiseparadoxo_anexo_degradacao.json",
+      "analiseparadoxo_RoteiroeAnexosTodos26082025.json",
+      "analiseparadoxo_memory_prompt_claude.json",
+      "analiseparadoxo_MEMORY_GO2B_RECONCILIADO_API_v5.json",
+      "analiseparadoxo_Peticao09062025-1039604-94.2023.8.26.0405.json",
+      "analiseparadoxo_BaseRevisaoInteligence.json",
+      "analiseparadoxo_ContratoRecupJudicial.json",
+      "analiseparadoxo_ContextoeHistoricoImp.json",
+      "analiseparadoxo_AvRJGrok-03.json",
+      "analiseparadoxo_matriz_unificada_go2b_v7.json",
+      "analiseparadoxo_knowledge_index.json",
+      "analiseparadoxo_temporal_index.json",
+      "analiseparadoxo_documentosbaseconhecimento.json",
+      "analiseparadoxo_fusaoartefatos_a_b_c_Incompletovsclaude.json",
+      "analiseparadoxo_header.json",
+      "analiseparadoxo_evidence_index.json",
+      "analiseparadoxo_go2b_analyses.json",
+      "analiseparadoxo_PosicionamentoPL-SuspensaoQuestionados.json",
+      "analiseparadoxo_anexo_fluxo_dinheiro.json",
+      "analiseparadoxo_RecuperacaoJudicialProcessosJudicialAnalise.json",
+      "analiseparadoxo_anexo_tabela_violacoes.json",
+      "analiseparadoxo_go2b_lookup.json",
+      "analiseparadoxo_ProcessoqueResultouApropriacaoCredito-Dagoberto.json",
+      "analiseparadoxo_memoriainstitucional.json",
+      "analiseparadoxo_chatsclaudeprojeto.json",
+      "analiseparadoxo_AvRJGrok-01.json",
+      "analiseparadoxo_go2b_kb.json",
+      "analiseparadoxo_relatorio_fases_1_2_3_4_consolidadoCompletoTemas.json",
+      "analiseparadoxo_fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs02.json",
+      "analiseparadoxo_go2b_knowledge_base.json",
+      "analiseparadoxo_PadraoAtuacaoPL-Dagoberto-Exemplo.json",
+      "analiseparadoxo_artefatos.json",
+      "analiseparadoxo_matrix_summary.json",
+      "analiseparadoxo_deep_memory.json",
+      "analiseparadoxo_go2b_kb_for_bm25_cache.json",
+      "analiseparadoxo_memory_config.json",
+      "analiseparadoxo_go2b_faiss.json",
+      "analiseparadoxo_MPF-JuntadaAutosECT-Completo-vs25082025.json",
+      "analiseparadoxo_DagobertoPadraoPL.-Diversos.json",
+      "analiseparadoxo_PosicionamentoPL-QuestionamentosSet2024.json",
+      "analiseparadoxo_go2b_lexical_index.json"
+    ],
+    "doc_coverage": {
+      "doc15": true,
+      "doc34": true,
+      "doc37": true,
+      "doc33": true,
+      "doc41": true,
+      "doc16": true,
+      "doc61": true,
+      "doc32": true,
+      "doc36": true,
+      "doc21": true,
+      "doc54": true,
+      "doc09": true,
+      "doc01": true,
+      "doc64": true,
+      "doc42": true,
+      "doc73": true,
+      "doc46": true,
+      "doc18": true,
+      "doc13": true,
+      "doc55": true,
+      "doc20": true,
+      "doc60": true,
+      "doc24": true,
+      "doc07": true,
+      "doc63": true,
+      "doc02": true,
+      "doc68": true,
+      "doc66": true,
+      "doc71": true,
+      "doc53": true,
+      "doc69": true,
+      "doc11": true,
+      "doc49": true,
+      "doc08": true,
+      "doc45": true,
+      "doc38": true,
+      "doc65": true,
+      "doc17": true,
+      "doc05": true,
+      "doc35": true,
+      "doc19": true,
+      "doc23": true,
+      "doc57": true,
+      "doc03": true,
+      "doc70": true,
+      "doc04": true,
+      "doc31": true,
+      "doc59": true,
+      "doc47": true,
+      "doc50": true,
+      "doc06": true,
+      "doc26": true,
+      "doc62": true,
+      "doc67": true,
+      "doc29": true,
+      "doc52": true,
+      "doc44": true,
+      "doc14": true,
+      "doc48": true,
+      "doc25": true,
+      "doc51": true,
+      "doc12": true,
+      "doc56": true,
+      "doc30": true
+    },
+    "content_analysis": {
+      "doc15": {
+        "doc_id": "doc15",
+        "version": "V3",
+        "size_kb": 9.1884765625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 3940,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc34": {
+        "doc_id": "doc34",
+        "version": "V3",
+        "size_kb": 15.1259765625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 9913,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc37": {
+        "doc_id": "doc37",
+        "version": "V3",
+        "size_kb": 1.361328125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 54,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc33": {
+        "doc_id": "doc33",
+        "version": "V3",
+        "size_kb": 3.98828125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 5,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc41": {
+        "doc_id": "doc41",
+        "version": "V3",
+        "size_kb": 1.318359375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 43,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc16": {
+        "doc_id": "doc16",
+        "version": "V3",
+        "size_kb": 37.4541015625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 31595,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc61": {
+        "doc_id": "doc61",
+        "version": "V3",
+        "size_kb": 7.072265625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 2,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc32": {
+        "doc_id": "doc32",
+        "version": "V3",
+        "size_kb": 24.953125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 19100,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc36": {
+        "doc_id": "doc36",
+        "version": "V3",
+        "size_kb": 1.33203125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 38,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc21": {
+        "doc_id": "doc21",
+        "version": "V3",
+        "size_kb": 310.2646484375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 298586,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc54": {
+        "doc_id": "doc54",
+        "version": "V3",
+        "size_kb": 13.3271484375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 8111,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc09": {
+        "doc_id": "doc09",
+        "version": "V3",
+        "size_kb": 9.2353515625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 20,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc01": {
+        "doc_id": "doc01",
+        "version": "V3",
+        "size_kb": 1.2236328125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": false,
+          "content_length": 0,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc64": {
+        "doc_id": "doc64",
+        "version": "V3",
+        "size_kb": 42.8798828125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 38057,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc42": {
+        "doc_id": "doc42",
+        "version": "V3",
+        "size_kb": 1.33203125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 46,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc73": {
+        "doc_id": "doc73",
+        "version": "V3",
+        "size_kb": 6.744140625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 585,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc46": {
+        "doc_id": "doc46",
+        "version": "V3",
+        "size_kb": 384.2060546875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 9,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc18": {
+        "doc_id": "doc18",
+        "version": "V3",
+        "size_kb": 164.9970703125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 157863,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc13": {
+        "doc_id": "doc13",
+        "version": "V3",
+        "size_kb": 1.34375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 51,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc55": {
+        "doc_id": "doc55",
+        "version": "V3",
+        "size_kb": 38.107421875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 31842,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc20": {
+        "doc_id": "doc20",
+        "version": "V3",
+        "size_kb": 500.9267578125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 5,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc60": {
+        "doc_id": "doc60",
+        "version": "V3",
+        "size_kb": 15.765625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 13255,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc24": {
+        "doc_id": "doc24",
+        "version": "V3",
+        "size_kb": 3942.1806640625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 8,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc07": {
+        "doc_id": "doc07",
+        "version": "V3",
+        "size_kb": 22.470703125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 17139,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc63": {
+        "doc_id": "doc63",
+        "version": "V3",
+        "size_kb": 25.9326171875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 19912,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc02": {
+        "doc_id": "doc02",
+        "version": "V3",
+        "size_kb": 1.2998046875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 30,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc68": {
+        "doc_id": "doc68",
+        "version": "V3",
+        "size_kb": 2426.041015625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 2440599,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc66": {
+        "doc_id": "doc66",
+        "version": "V3",
+        "size_kb": 8.1884765625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 2714,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc71": {
+        "doc_id": "doc71",
+        "version": "V3",
+        "size_kb": 11.5146484375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 509,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc53": {
+        "doc_id": "doc53",
+        "version": "V3",
+        "size_kb": 29.0439453125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 23599,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc69": {
+        "doc_id": "doc69",
+        "version": "V3",
+        "size_kb": 27.7412109375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 25777,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc11": {
+        "doc_id": "doc11",
+        "version": "V3",
+        "size_kb": 31.6220703125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 26427,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc49": {
+        "doc_id": "doc49",
+        "version": "V3",
+        "size_kb": 107.40234375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 102158,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc08": {
+        "doc_id": "doc08",
+        "version": "V3",
+        "size_kb": 20.421875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 15030,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc45": {
+        "doc_id": "doc45",
+        "version": "V3",
+        "size_kb": 145.7421875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 25,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc38": {
+        "doc_id": "doc38",
+        "version": "V3",
+        "size_kb": 1.2314453125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": false,
+          "content_length": 0,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc65": {
+        "doc_id": "doc65",
+        "version": "V3",
+        "size_kb": 1.2294921875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": false,
+          "content_length": 0,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc17": {
+        "doc_id": "doc17",
+        "version": "V3",
+        "size_kb": 787.7900390625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 766470,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc05": {
+        "doc_id": "doc05",
+        "version": "V3",
+        "size_kb": 6.9619140625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 1743,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc35": {
+        "doc_id": "doc35",
+        "version": "V3",
+        "size_kb": 1.314453125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 41,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc19": {
+        "doc_id": "doc19",
+        "version": "V3",
+        "size_kb": 1.2294921875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": false,
+          "content_length": 0,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc23": {
+        "doc_id": "doc23",
+        "version": "V3",
+        "size_kb": 4.185546875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 5,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc57": {
+        "doc_id": "doc57",
+        "version": "V3",
+        "size_kb": 13.15234375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 8111,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc03": {
+        "doc_id": "doc03",
+        "version": "V3",
+        "size_kb": 1.3154296875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 34,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc70": {
+        "doc_id": "doc70",
+        "version": "V3",
+        "size_kb": 4247.07421875,
+        "fields_count": 2,
+        "strategy_elements": {
+          "has_full_content": false,
+          "content_length": 0,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc04": {
+        "doc_id": "doc04",
+        "version": "V3",
+        "size_kb": 191.3359375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 500,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc31": {
+        "doc_id": "doc31",
+        "version": "V3",
+        "size_kb": 28.271484375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 77,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc59": {
+        "doc_id": "doc59",
+        "version": "V3",
+        "size_kb": 14.740234375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 12105,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc47": {
+        "doc_id": "doc47",
+        "version": "V3",
+        "size_kb": 35.740234375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 28967,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc50": {
+        "doc_id": "doc50",
+        "version": "V3",
+        "size_kb": 614.3779296875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 554259,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc06": {
+        "doc_id": "doc06",
+        "version": "V3",
+        "size_kb": 18.0908203125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 12994,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc26": {
+        "doc_id": "doc26",
+        "version": "V3",
+        "size_kb": 15476.3349609375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 11685,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc62": {
+        "doc_id": "doc62",
+        "version": "V3",
+        "size_kb": 147.2490234375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 136871,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc67": {
+        "doc_id": "doc67",
+        "version": "V3",
+        "size_kb": 496.5244140625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 480943,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc29": {
+        "doc_id": "doc29",
+        "version": "V3",
+        "size_kb": 15.82421875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 10,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc52": {
+        "doc_id": "doc52",
+        "version": "V3",
+        "size_kb": 6.79296875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 2049,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc44": {
+        "doc_id": "doc44",
+        "version": "V3",
+        "size_kb": 4.6083984375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 3,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc14": {
+        "doc_id": "doc14",
+        "version": "V3",
+        "size_kb": 9.9111328125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 3,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc48": {
+        "doc_id": "doc48",
+        "version": "V3",
+        "size_kb": 7.3642578125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 4,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc25": {
+        "doc_id": "doc25",
+        "version": "V3",
+        "size_kb": 1.32421875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 53,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc51": {
+        "doc_id": "doc51",
+        "version": "V3",
+        "size_kb": 1193.8701171875,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 1201951,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc12": {
+        "doc_id": "doc12",
+        "version": "V3",
+        "size_kb": 35.525390625,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 29835,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc56": {
+        "doc_id": "doc56",
+        "version": "V3",
+        "size_kb": 19.9521484375,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 14665,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      },
+      "doc30": {
+        "doc_id": "doc30",
+        "version": "V3",
+        "size_kb": 1071.3642578125,
+        "fields_count": 4,
+        "strategy_elements": {
+          "has_full_content": true,
+          "content_length": 6,
+          "has_paginas": false,
+          "sem_paradoxos": true,
+          "content_type": "texto_fonte_full"
+        }
+      }
+    },
+    "structure_validation": {},
+    "errors": []
+  },
+  "v4_analysis": {
+    "total_files": 71,
+    "files_found": [
+      "doc18.json",
+      "doc59.json",
+      "doc22.json",
+      "doc34.json",
+      "doc63.json",
+      "doc14.json",
+      "doc55.json",
+      "doc02.json",
+      "doc38.json",
+      "doc39.json",
+      "doc03.json",
+      "doc54.json",
+      "doc42.json",
+      "doc15.json",
+      "doc62.json",
+      "doc35.json",
+      "doc23.json",
+      "doc74.json",
+      "doc19.json",
+      "doc12.json",
+      "doc45.json",
+      "doc53.json",
+      "doc04.json",
+      "doc69.json",
+      "doc49.json",
+      "doc08.json",
+      "doc73.json",
+      "doc24.json",
+      "doc32.json",
+      "doc65.json",
+      "doc64.json",
+      "doc33.json",
+      "doc25.json",
+      "doc72.json",
+      "doc09.json",
+      "doc48.json",
+      "doc68.json",
+      "doc29.json",
+      "doc05.json",
+      "doc52.json",
+      "doc44.json",
+      "doc13.json",
+      "doc06.json",
+      "doc51.json",
+      "doc47.json",
+      "doc10.json",
+      "doc67.json",
+      "doc30.json",
+      "doc26.json",
+      "doc71.json",
+      "doc70.json",
+      "doc27.json",
+      "doc31.json",
+      "doc66.json",
+      "doc11.json",
+      "doc46.json",
+      "doc50.json",
+      "doc07.json",
+      "doc61.json",
+      "doc36.json",
+      "doc20.json",
+      "doc57.json",
+      "doc41.json",
+      "doc16.json",
+      "doc17.json",
+      "doc40.json",
+      "doc56.json",
+      "doc01.json",
+      "doc21.json",
+      "doc37.json",
+      "doc60.json"
+    ],
+    "doc_coverage": {
+      "doc18": true,
+      "doc59": true,
+      "doc22": true,
+      "doc34": true,
+      "doc63": true,
+      "doc14": true,
+      "doc55": true,
+      "doc02": true,
+      "doc38": true,
+      "doc39": true,
+      "doc03": true,
+      "doc54": true,
+      "doc42": true,
+      "doc15": true,
+      "doc62": true,
+      "doc35": true,
+      "doc23": true,
+      "doc74": true,
+      "doc19": true,
+      "doc12": true,
+      "doc45": true,
+      "doc53": true,
+      "doc04": true,
+      "doc69": true,
+      "doc49": true,
+      "doc08": true,
+      "doc73": true,
+      "doc24": true,
+      "doc32": true,
+      "doc65": true,
+      "doc64": true,
+      "doc33": true,
+      "doc25": true,
+      "doc72": true,
+      "doc09": true,
+      "doc48": true,
+      "doc68": true,
+      "doc29": true,
+      "doc05": true,
+      "doc52": true,
+      "doc44": true,
+      "doc13": true,
+      "doc06": true,
+      "doc51": true,
+      "doc47": true,
+      "doc10": true,
+      "doc67": true,
+      "doc30": true,
+      "doc71": true,
+      "doc27": true,
+      "doc31": true,
+      "doc66": true,
+      "doc11": true,
+      "doc46": true,
+      "doc50": true,
+      "doc07": true,
+      "doc61": true,
+      "doc36": true,
+      "doc20": true,
+      "doc57": true,
+      "doc41": true,
+      "doc16": true,
+      "doc17": true,
+      "doc40": true,
+      "doc56": true,
+      "doc01": true,
+      "doc21": true,
+      "doc37": true,
+      "doc60": true
+    },
+    "content_analysis": {
+      "doc18": {
+        "doc_id": "doc18",
+        "version": "V4",
+        "size_kb": 162.2919921875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc59": {
+        "doc_id": "doc59",
+        "version": "V4",
+        "size_kb": 13.4072265625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc22": {
+        "doc_id": "doc22",
+        "version": "V4",
+        "size_kb": 104.267578125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc34": {
+        "doc_id": "doc34",
+        "version": "V4",
+        "size_kb": 24.810546875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc63": {
+        "doc_id": "doc63",
+        "version": "V4",
+        "size_kb": 21.6005859375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc14": {
+        "doc_id": "doc14",
+        "version": "V4",
+        "size_kb": 612.138671875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc55": {
+        "doc_id": "doc55",
+        "version": "V4",
+        "size_kb": 33.8818359375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc02": {
+        "doc_id": "doc02",
+        "version": "V4",
+        "size_kb": 94.7802734375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc38": {
+        "doc_id": "doc38",
+        "version": "V4",
+        "size_kb": 17.3349609375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc39": {
+        "doc_id": "doc39",
+        "version": "V4",
+        "size_kb": 21.5927734375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc03": {
+        "doc_id": "doc03",
+        "version": "V4",
+        "size_kb": 39.5537109375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc54": {
+        "doc_id": "doc54",
+        "version": "V4",
+        "size_kb": 9.091796875,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc42": {
+        "doc_id": "doc42",
+        "version": "V4",
+        "size_kb": 9.0673828125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc15": {
+        "doc_id": "doc15",
+        "version": "V4",
+        "size_kb": 495.90625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc62": {
+        "doc_id": "doc62",
+        "version": "V4",
+        "size_kb": 142.8271484375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc35": {
+        "doc_id": "doc35",
+        "version": "V4",
+        "size_kb": 21.568359375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc23": {
+        "doc_id": "doc23",
+        "version": "V4",
+        "size_kb": 94.7734375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc74": {
+        "doc_id": "doc74",
+        "version": "V4",
+        "size_kb": 8.291015625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc19": {
+        "doc_id": "doc19",
+        "version": "V4",
+        "size_kb": 150.1103515625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc12": {
+        "doc_id": "doc12",
+        "version": "V4",
+        "size_kb": 4168.4296875,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc45": {
+        "doc_id": "doc45",
+        "version": "V4",
+        "size_kb": 5.7099609375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc53": {
+        "doc_id": "doc53",
+        "version": "V4",
+        "size_kb": 24.8349609375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc04": {
+        "doc_id": "doc04",
+        "version": "V4",
+        "size_kb": 139.31640625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc69": {
+        "doc_id": "doc69",
+        "version": "V4",
+        "size_kb": 6.7001953125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc49": {
+        "doc_id": "doc49",
+        "version": "V4",
+        "size_kb": 104.2724609375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc08": {
+        "doc_id": "doc08",
+        "version": "V4",
+        "size_kb": 17.330078125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc73": {
+        "doc_id": "doc73",
+        "version": "V4",
+        "size_kb": 7.2470703125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc24": {
+        "doc_id": "doc24",
+        "version": "V4",
+        "size_kb": 91.7314453125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc32": {
+        "doc_id": "doc32",
+        "version": "V4",
+        "size_kb": 31.169921875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc65": {
+        "doc_id": "doc65",
+        "version": "V4",
+        "size_kb": 0.724609375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc64": {
+        "doc_id": "doc64",
+        "version": "V4",
+        "size_kb": 39.53515625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc33": {
+        "doc_id": "doc33",
+        "version": "V4",
+        "size_kb": 30.7529296875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc25": {
+        "doc_id": "doc25",
+        "version": "V4",
+        "size_kb": 89.212890625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc72": {
+        "doc_id": "doc72",
+        "version": "V4",
+        "size_kb": 3.9453125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc09": {
+        "doc_id": "doc09",
+        "version": "V4",
+        "size_kb": 5.267578125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc48": {
+        "doc_id": "doc48",
+        "version": "V4",
+        "size_kb": 3.5595703125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc68": {
+        "doc_id": "doc68",
+        "version": "V4",
+        "size_kb": 4.2626953125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc29": {
+        "doc_id": "doc29",
+        "version": "V4",
+        "size_kb": 33.859375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc05": {
+        "doc_id": "doc05",
+        "version": "V4",
+        "size_kb": 27.7939453125,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc52": {
+        "doc_id": "doc52",
+        "version": "V4",
+        "size_kb": 2.8828125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc44": {
+        "doc_id": "doc44",
+        "version": "V4",
+        "size_kb": 6.5546875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc13": {
+        "doc_id": "doc13",
+        "version": "V4",
+        "size_kb": 783.0,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc06": {
+        "doc_id": "doc06",
+        "version": "V4",
+        "size_kb": 78.51171875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc51": {
+        "doc_id": "doc51",
+        "version": "V4",
+        "size_kb": 139.3359375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc47": {
+        "doc_id": "doc47",
+        "version": "V4",
+        "size_kb": 30.7568359375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc10": {
+        "doc_id": "doc10",
+        "version": "V4",
+        "size_kb": 122.705078125,
+        "fields_count": 12,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc67": {
+        "doc_id": "doc67",
+        "version": "V4",
+        "size_kb": 495.939453125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc30": {
+        "doc_id": "doc30",
+        "version": "V4",
+        "size_kb": 33.16015625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc71": {
+        "doc_id": "doc71",
+        "version": "V4",
+        "size_kb": 8.4619140625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc27": {
+        "doc_id": "doc27",
+        "version": "V4",
+        "size_kb": 44.322265625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc31": {
+        "doc_id": "doc31",
+        "version": "V4",
+        "size_kb": 32.740234375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc66": {
+        "doc_id": "doc66",
+        "version": "V4",
+        "size_kb": 3.5791015625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc11": {
+        "doc_id": "doc11",
+        "version": "V4",
+        "size_kb": 27.8701171875,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc46": {
+        "doc_id": "doc46",
+        "version": "V4",
+        "size_kb": 4.72265625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc50": {
+        "doc_id": "doc50",
+        "version": "V4",
+        "size_kb": 612.140625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc07": {
+        "doc_id": "doc07",
+        "version": "V4",
+        "size_kb": 21.416015625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc61": {
+        "doc_id": "doc61",
+        "version": "V4",
+        "size_kb": 2.2919921875,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc36": {
+        "doc_id": "doc36",
+        "version": "V4",
+        "size_kb": 150.125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc20": {
+        "doc_id": "doc20",
+        "version": "V4",
+        "size_kb": 142.7958984375,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc57": {
+        "doc_id": "doc57",
+        "version": "V4",
+        "size_kb": 9.0888671875,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc41": {
+        "doc_id": "doc41",
+        "version": "V4",
+        "size_kb": 10.857421875,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc16": {
+        "doc_id": "doc16",
+        "version": "V4",
+        "size_kb": 357.244140625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc17": {
+        "doc_id": "doc17",
+        "version": "V4",
+        "size_kb": 783.009765625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc40": {
+        "doc_id": "doc40",
+        "version": "V4",
+        "size_kb": 32.7626953125,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc56": {
+        "doc_id": "doc56",
+        "version": "V4",
+        "size_kb": 15.7333984375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc01": {
+        "doc_id": "doc01",
+        "version": "V4",
+        "size_kb": 14.4853515625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc21": {
+        "doc_id": "doc21",
+        "version": "V4",
+        "size_kb": 308.609375,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc37": {
+        "doc_id": "doc37",
+        "version": "V4",
+        "size_kb": 18.44140625,
+        "fields_count": 10,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": false,
+          "content_type": "mega_extraida"
+        }
+      },
+      "doc60": {
+        "doc_id": "doc60",
+        "version": "V4",
+        "size_kb": 14.509765625,
+        "fields_count": 11,
+        "strategy_elements": {
+          "has_mega_structure": true,
+          "has_full_content": true,
+          "has_metadata_completo": true,
+          "is_mega_extraction": true,
+          "content_type": "mega_extraida"
+        }
+      }
+    },
+    "structure_validation": {},
+    "errors": [
+      "Erro ao processar doc26.json: Extra data: line 33 column 1 (char 57955)",
+      "Erro ao processar doc70.json: Extra data: line 66 column 1 (char 4268784)"
+    ]
+  },
+  "manual_analysis": {
+    "total_files": 71,
+    "files_found": [
+      "doc53_FUSION.json",
+      "doc23_FUSION.json",
+      "doc11_FUSION.json",
+      "doc61_FUSION.json",
+      "doc04_FUSION.json",
+      "doc74_FUSION.json",
+      "doc68_FUSION.json",
+      "doc18_FUSION.json",
+      "doc46_FUSION.json",
+      "doc36_FUSION.json",
+      "doc71_FUSION.json",
+      "doc01_FUSION.json",
+      "doc33_FUSION.json",
+      "doc08_FUSION.json",
+      "doc26_FUSION.json",
+      "doc56_FUSION.json",
+      "doc64_FUSION.json",
+      "doc14_FUSION.json",
+      "doc67_FUSION.json",
+      "doc17_FUSION.json",
+      "doc49_FUSION.json",
+      "doc39_FUSION.json",
+      "doc25_FUSION.json",
+      "doc55_FUSION.json",
+      "doc30_FUSION.json",
+      "doc40_FUSION.json",
+      "doc72_FUSION.json",
+      "doc02_FUSION.json",
+      "doc45_FUSION.json",
+      "doc35_FUSION.json",
+      "doc07_FUSION.json",
+      "doc29_FUSION.json",
+      "doc59_FUSION.json",
+      "doc12_FUSION.json",
+      "doc62_FUSION.json",
+      "doc50_FUSION.json",
+      "doc20_FUSION.json",
+      "doc15_FUSION.json",
+      "doc65_FUSION.json",
+      "doc09_FUSION.json",
+      "doc57_FUSION.json",
+      "doc27_FUSION.json",
+      "doc42_FUSION.json",
+      "doc32_FUSION.json",
+      "doc70_FUSION.json",
+      "doc19_FUSION.json",
+      "doc69_FUSION.json",
+      "doc37_FUSION.json",
+      "doc47_FUSION.json",
+      "doc05_FUSION.json",
+      "doc60_FUSION.json",
+      "doc10_FUSION.json",
+      "doc22_FUSION.json",
+      "doc52_FUSION.json",
+      "doc21_FUSION.json",
+      "doc51_FUSION.json",
+      "doc63_FUSION.json",
+      "doc13_FUSION.json",
+      "doc06_FUSION.json",
+      "doc34_FUSION.json",
+      "doc44_FUSION.json",
+      "doc03_FUSION.json",
+      "doc73_FUSION.json",
+      "doc41_FUSION.json",
+      "doc31_FUSION.json",
+      "doc54_FUSION.json",
+      "doc24_FUSION.json",
+      "doc16_FUSION.json",
+      "doc66_FUSION.json",
+      "doc38_FUSION.json",
+      "doc48_FUSION.json"
+    ],
+    "strategy_compliance": {
+      "doc53": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc23": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc11": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc61": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc04": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc74": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc68": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": false,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc18": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc46": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc36": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc71": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc01": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc33": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc08": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc26": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": false,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 70
+      },
+      "doc56": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc64": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc14": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc67": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc17": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc49": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc39": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc25": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc55": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc30": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc40": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc72": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc02": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc45": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc35": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc07": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc29": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc59": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc12": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc62": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc50": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc20": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc15": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc65": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc09": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc57": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc27": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc42": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc32": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc70": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": false,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 70
+      },
+      "doc19": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc69": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": false,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc37": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc47": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc05": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc60": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc10": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc22": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc52": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc21": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc51": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc63": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc13": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc06": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc34": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc44": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc03": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc73": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc41": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc31": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc54": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc24": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc16": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc66": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": true,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 100
+      },
+      "doc38": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      },
+      "doc48": {
+        "implementacao_v2_base": true,
+        "tem_analise_inicial_v1": true,
+        "tem_texto_fonte_v3": false,
+        "tem_texto_fonte_v4": true,
+        "tem_mapeamento_fontes": true,
+        "tem_campos_preparatorios": true,
+        "tem_descricao_adriano": true,
+        "compliance_score": 85
+      }
+    },
+    "content_analysis": {
+      "doc53": {
+        "doc_id": "doc53",
+        "version": "MANUAL",
+        "size_kb": 58.19140625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc23": {
+        "doc_id": "doc23",
+        "version": "MANUAL",
+        "size_kb": 99.3564453125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc11": {
+        "doc_id": "doc11",
+        "version": "MANUAL",
+        "size_kb": 63.1943359375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc61": {
+        "doc_id": "doc61",
+        "version": "MANUAL",
+        "size_kb": 4.1181640625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc04": {
+        "doc_id": "doc04",
+        "version": "MANUAL",
+        "size_kb": 144.9287109375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc74": {
+        "doc_id": "doc74",
+        "version": "MANUAL",
+        "size_kb": 106.11328125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc68": {
+        "doc_id": "doc68",
+        "version": "MANUAL",
+        "size_kb": 4876.4189453125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": false,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc18": {
+        "doc_id": "doc18",
+        "version": "MANUAL",
+        "size_kb": 327.130859375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc46": {
+        "doc_id": "doc46",
+        "version": "MANUAL",
+        "size_kb": 68.1396484375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc36": {
+        "doc_id": "doc36",
+        "version": "MANUAL",
+        "size_kb": 152.6181640625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc71": {
+        "doc_id": "doc71",
+        "version": "MANUAL",
+        "size_kb": 24.091796875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc01": {
+        "doc_id": "doc01",
+        "version": "MANUAL",
+        "size_kb": 16.576171875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc33": {
+        "doc_id": "doc33",
+        "version": "MANUAL",
+        "size_kb": 33.291015625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc08": {
+        "doc_id": "doc08",
+        "version": "MANUAL",
+        "size_kb": 39.8388671875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc26": {
+        "doc_id": "doc26",
+        "version": "MANUAL",
+        "size_kb": 10.423828125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": false,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 70
+        }
+      },
+      "doc56": {
+        "doc_id": "doc56",
+        "version": "MANUAL",
+        "size_kb": 39.8115234375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc64": {
+        "doc_id": "doc64",
+        "version": "MANUAL",
+        "size_kb": 80.4990234375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc14": {
+        "doc_id": "doc14",
+        "version": "MANUAL",
+        "size_kb": 615.2451171875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc67": {
+        "doc_id": "doc67",
+        "version": "MANUAL",
+        "size_kb": 981.19921875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc17": {
+        "doc_id": "doc17",
+        "version": "MANUAL",
+        "size_kb": 1554.66796875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc49": {
+        "doc_id": "doc49",
+        "version": "MANUAL",
+        "size_kb": 209.6494140625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc39": {
+        "doc_id": "doc39",
+        "version": "MANUAL",
+        "size_kb": 22.66796875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc25": {
+        "doc_id": "doc25",
+        "version": "MANUAL",
+        "size_kb": 91.4697265625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc55": {
+        "doc_id": "doc55",
+        "version": "MANUAL",
+        "size_kb": 74.7412109375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc30": {
+        "doc_id": "doc30",
+        "version": "MANUAL",
+        "size_kb": 36.0419921875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc40": {
+        "doc_id": "doc40",
+        "version": "MANUAL",
+        "size_kb": 33.837890625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc72": {
+        "doc_id": "doc72",
+        "version": "MANUAL",
+        "size_kb": 3.3271484375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc02": {
+        "doc_id": "doc02",
+        "version": "MANUAL",
+        "size_kb": 97.244140625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc45": {
+        "doc_id": "doc45",
+        "version": "MANUAL",
+        "size_kb": 113.328125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc35": {
+        "doc_id": "doc35",
+        "version": "MANUAL",
+        "size_kb": 23.7900390625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc07": {
+        "doc_id": "doc07",
+        "version": "MANUAL",
+        "size_kb": 48.814453125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc29": {
+        "doc_id": "doc29",
+        "version": "MANUAL",
+        "size_kb": 39.3349609375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc59": {
+        "doc_id": "doc59",
+        "version": "MANUAL",
+        "size_kb": 34.373046875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc12": {
+        "doc_id": "doc12",
+        "version": "MANUAL",
+        "size_kb": 4208.4951171875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc62": {
+        "doc_id": "doc62",
+        "version": "MANUAL",
+        "size_kb": 289.9384765625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc50": {
+        "doc_id": "doc50",
+        "version": "MANUAL",
+        "size_kb": 1213.7890625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc20": {
+        "doc_id": "doc20",
+        "version": "MANUAL",
+        "size_kb": 146.2666015625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc15": {
+        "doc_id": "doc15",
+        "version": "MANUAL",
+        "size_kb": 507.1884765625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc65": {
+        "doc_id": "doc65",
+        "version": "MANUAL",
+        "size_kb": 3.0830078125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc09": {
+        "doc_id": "doc09",
+        "version": "MANUAL",
+        "size_kb": 10.9501953125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc57": {
+        "doc_id": "doc57",
+        "version": "MANUAL",
+        "size_kb": 24.6875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc27": {
+        "doc_id": "doc27",
+        "version": "MANUAL",
+        "size_kb": 46.6953125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc42": {
+        "doc_id": "doc42",
+        "version": "MANUAL",
+        "size_kb": 11.31640625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc32": {
+        "doc_id": "doc32",
+        "version": "MANUAL",
+        "size_kb": 58.724609375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc70": {
+        "doc_id": "doc70",
+        "version": "MANUAL",
+        "size_kb": 3.8037109375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": false,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 70
+        }
+      },
+      "doc19": {
+        "doc_id": "doc19",
+        "version": "MANUAL",
+        "size_kb": 152.4541015625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc69": {
+        "doc_id": "doc69",
+        "version": "MANUAL",
+        "size_kb": 55.814453125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": false,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc37": {
+        "doc_id": "doc37",
+        "version": "MANUAL",
+        "size_kb": 20.7470703125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc47": {
+        "doc_id": "doc47",
+        "version": "MANUAL",
+        "size_kb": 67.7412109375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc05": {
+        "doc_id": "doc05",
+        "version": "MANUAL",
+        "size_kb": 38.798828125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc60": {
+        "doc_id": "doc60",
+        "version": "MANUAL",
+        "size_kb": 36.2421875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc10": {
+        "doc_id": "doc10",
+        "version": "MANUAL",
+        "size_kb": 123.58984375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc22": {
+        "doc_id": "doc22",
+        "version": "MANUAL",
+        "size_kb": 105.3408203125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc52": {
+        "doc_id": "doc52",
+        "version": "MANUAL",
+        "size_kb": 12.3232421875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc21": {
+        "doc_id": "doc21",
+        "version": "MANUAL",
+        "size_kb": 614.728515625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc51": {
+        "doc_id": "doc51",
+        "version": "MANUAL",
+        "size_kb": 1338.9169921875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc63": {
+        "doc_id": "doc63",
+        "version": "MANUAL",
+        "size_kb": 51.4033203125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc13": {
+        "doc_id": "doc13",
+        "version": "MANUAL",
+        "size_kb": 785.2705078125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc06": {
+        "doc_id": "doc06",
+        "version": "MANUAL",
+        "size_kb": 100.7802734375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc34": {
+        "doc_id": "doc34",
+        "version": "MANUAL",
+        "size_kb": 41.76953125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc44": {
+        "doc_id": "doc44",
+        "version": "MANUAL",
+        "size_kb": 9.255859375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc03": {
+        "doc_id": "doc03",
+        "version": "MANUAL",
+        "size_kb": 41.767578125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc73": {
+        "doc_id": "doc73",
+        "version": "MANUAL",
+        "size_kb": 14.556640625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc41": {
+        "doc_id": "doc41",
+        "version": "MANUAL",
+        "size_kb": 13.1005859375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc31": {
+        "doc_id": "doc31",
+        "version": "MANUAL",
+        "size_kb": 36.30078125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc54": {
+        "doc_id": "doc54",
+        "version": "MANUAL",
+        "size_kb": 25.8955078125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc24": {
+        "doc_id": "doc24",
+        "version": "MANUAL",
+        "size_kb": 94.427734375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc16": {
+        "doc_id": "doc16",
+        "version": "MANUAL",
+        "size_kb": 396.9501953125,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc66": {
+        "doc_id": "doc66",
+        "version": "MANUAL",
+        "size_kb": 14.6982421875,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": true,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 100
+        }
+      },
+      "doc38": {
+        "doc_id": "doc38",
+        "version": "MANUAL",
+        "size_kb": 19.69140625,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      },
+      "doc48": {
+        "doc_id": "doc48",
+        "version": "MANUAL",
+        "size_kb": 6.2412109375,
+        "fields_count": 14,
+        "strategy_elements": {
+          "implementacao_v2_base": true,
+          "tem_analise_inicial_v1": true,
+          "tem_texto_fonte_v3": false,
+          "tem_texto_fonte_v4": true,
+          "tem_mapeamento_fontes": true,
+          "tem_campos_preparatorios": true,
+          "tem_descricao_adriano": true,
+          "compliance_score": 85
+        }
+      }
+    },
+    "overall_compliance": 93.45070422535211,
+    "errors": []
+  },
+  "strategy_compliance": {
+    "cobertura_fontes": {
+      "v1_docs": 64,
+      "v2_docs": 63,
+      "v3_docs": 64,
+      "v4_docs": 69,
+      "total_source_docs": 71,
+      "manual_docs": 71
+    },
+    "docs_faltantes_manual": "set()",
+    "docs_excedentes_manual": "set()",
+    "compliance_por_documento": {
+      "doc53": 100,
+      "doc23": 85,
+      "doc11": 100,
+      "doc61": 85,
+      "doc04": 85,
+      "doc74": 100,
+      "doc68": 85,
+      "doc18": 100,
+      "doc46": 85,
+      "doc36": 100,
+      "doc71": 100,
+      "doc01": 85,
+      "doc33": 85,
+      "doc08": 100,
+      "doc26": 70,
+      "doc56": 100,
+      "doc64": 100,
+      "doc14": 85,
+      "doc67": 100,
+      "doc17": 100,
+      "doc49": 100,
+      "doc39": 85,
+      "doc25": 100,
+      "doc55": 100,
+      "doc30": 85,
+      "doc40": 85,
+      "doc72": 85,
+      "doc02": 100,
+      "doc45": 85,
+      "doc35": 100,
+      "doc07": 100,
+      "doc29": 85,
+      "doc59": 100,
+      "doc12": 100,
+      "doc62": 100,
+      "doc50": 100,
+      "doc20": 85,
+      "doc15": 100,
+      "doc65": 85,
+      "doc09": 85,
+      "doc57": 100,
+      "doc27": 85,
+      "doc42": 100,
+      "doc32": 100,
+      "doc70": 70,
+      "doc19": 85,
+      "doc69": 85,
+      "doc37": 100,
+      "doc47": 100,
+      "doc05": 100,
+      "doc60": 100,
+      "doc10": 85,
+      "doc22": 85,
+      "doc52": 100,
+      "doc21": 100,
+      "doc51": 100,
+      "doc63": 100,
+      "doc13": 100,
+      "doc06": 100,
+      "doc34": 100,
+      "doc44": 85,
+      "doc03": 100,
+      "doc73": 100,
+      "doc41": 100,
+      "doc31": 85,
+      "doc54": 100,
+      "doc24": 85,
+      "doc16": 100,
+      "doc66": 100,
+      "doc38": 85,
+      "doc48": 85
+    },
+    "compliance_geral": 93.45070422535211
+  },
+  "recommendations": []
+}
