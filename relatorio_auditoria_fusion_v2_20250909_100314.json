@@ -1,0 +1,3253 @@
+{
+  "meta": {
+    "timestamp": "2025-09-09T10:03:14.617710",
+    "total_arquivos_esperados": 71,
+    "base_path": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/",
+    "versao_script": "1.0"
+  },
+  "resumo": {
+    "arquivos_encontrados": 71,
+    "arquivos_validos": 71,
+    "json_invalidos": 0,
+    "campos_fusion_completos": 0,
+    "campos_v2_completos": 71,
+    "verdades_preservadas": 0,
+    "tamanho_total_mb": 22.07676887512207
+  },
+  "arquivos": [
+    {
+      "arquivo": "doc01-actor_index.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc01-actor_index.json",
+      "existe": true,
+      "tamanho_bytes": 32848,
+      "hash_sha256": "de1d31437dbb6d3f75c6f546d9a05a456043b5157ca8ef1989f4ce2b222cdce6",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc01-actor_index.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## MAPEAMENTO DE ATORES PROCESSUAIS E RELACIONAMENTOS CRIMINOSOS\n###..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc02-anexo_degradacao.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc02-anexo_degradacao.json",
+      "existe": true,
+      "tamanho_bytes": 116584,
+      "hash_sha256": "c7e5bd607a43dc7721f08363ec38a9bf4fa344dad56925ea4c0409739d503021",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc02-anexo_degradacao.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Documento doc02-anexo_degradacao.md\n\n**Processo:** 103..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc03-anexo_fluxo_dinheiro.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc03-anexo_fluxo_dinheiro.json",
+      "existe": true,
+      "tamanho_bytes": 66343,
+      "hash_sha256": "f12a041dd07e3cb79fda9d87e15ba7ded23300da36af3a6a7509b5c88347c11a",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc03-anexo_fluxo_dinheiro.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Documento doc03-anexo_fluxo_dinheiro.md\n\n**Processo:**..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc04-anexo_tabela_violacoes.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc04-anexo_tabela_violacoes.json",
+      "existe": true,
+      "tamanho_bytes": 169404,
+      "hash_sha256": "133238e794b1057992ac645e57f985be2794e0392cb1a1679e8b944958d46da8",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc04-anexo_tabela_violacoes.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## MATRIZ DE VIOLAÇÕES PROCESSUAIS E IRREGULARIDADES LEGAIS\n### CASO..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc05-artefatos.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc05-artefatos.json",
+      "existe": true,
+      "tamanho_bytes": 69664,
+      "hash_sha256": "61054e1def2678573c1ab050e65b5482622bc51eb75c88bdad3632333be28686",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc05-artefatos.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Documento doc05-artefatos.md\n\n**Processo:** 1039604-94..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc06-AvRJGrok-01.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc06-AvRJGrok-01.json",
+      "existe": true,
+      "tamanho_bytes": 133765,
+      "hash_sha256": "aee520ba465cf747238a4780dda35cfcb93afd69a3b76962ff230539f45d5aa5",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc06-AvRJGrok-01.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Documento doc06-avrjgrok-01.md\n\n**Processo:** 1039604-..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc07-AvRJGrok-02.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc07-AvRJGrok-02.json",
+      "existe": true,
+      "tamanho_bytes": 65496,
+      "hash_sha256": "8132923408dba07791360aa0efb1b8f22438bd5934d019539b074117244133e0",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc07-AvRJGrok-02.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Doc07-AvRJGrok-02.md - Continuação Análise Legislação ..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc08-AvRJGrok-03.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc08-AvRJGrok-03.json",
+      "existe": true,
+      "tamanho_bytes": 60721,
+      "hash_sha256": "a9be709e0033d101c1c4ea88c84cf5922ad8b218b01f7a60f4dd0a005de29b4b",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc08-AvRJGrok-03.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Doc08-AvRJGrok-03.md - Finalização Análise Legislação ..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc09-chroma.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc09-chroma.json",
+      "existe": true,
+      "tamanho_bytes": 31619,
+      "hash_sha256": "dea334bfe8821b2b3eb0b885ab7d0f4a371859edd6cfa85a803e0cf7378f5198",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc09-chroma.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE RETROSPECTIVA DO SISTEMA CHROMA\n### IMPLEMENTAÇÃO VETORIA..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc10-ComunicacoeseAlertas-FaltaAtuacaoPLConsol.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc10-ComunicacoeseAlertas-FaltaAtuacaoPLConsol.json",
+      "existe": true,
+      "tamanho_bytes": 148841,
+      "hash_sha256": "1b8a2c9f5821fbd75e2d9d4fb50bf6a8e7546157ec2c93ee17f3b8f1c39390b7",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc10-ComunicacoeseAlertas-FaltaAtuacaoPLConsol.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Doc10-ComunicacoeseAlertas-FaltaAtuacaoPLConsol.md - P..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc11-ContratoRecupJudicial.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc11-ContratoRecupJudicial.json",
+      "existe": true,
+      "tamanho_bytes": 88975,
+      "hash_sha256": "7f863b70270a4d40e7d1dfa2e1e97a1dcf981618ce9e9e55fbf31d745c8a0356",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc11-ContratoRecupJudicial.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## Análise do Doc11-ContratoRecupJudicial.md - Contrato versus Prest..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc12-DagobertoPadraoPL.-Diversos.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc12-DagobertoPadraoPL.-Diversos.json",
+      "existe": true,
+      "tamanho_bytes": 4324552,
+      "hash_sha256": "e0881f2d35fc7c60862f054b98cdd5132b12b007e32d9c4cca7da41f8bbb0862",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc12-DagobertoPadraoPL.-Diversos.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## DOC12: PADRÃO COMPORTAMENTAL DAGOBERTO/PL CONSULTORIA - ANÁLISE D..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc13-data_level0.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc13-data_level0.json",
+      "existe": true,
+      "tamanho_bytes": 842010,
+      "hash_sha256": "81a0088bd156099bb6ef6f1116b77deeb0e00a1e003260366189b1c1f7dc76b0",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc13-data_level0.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ESTRUTURA FUNDAMENTAL DE DADOS - ANÁLISE ARQUITETURAL\n### ORGANIZ..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc14-deep_memory.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc14-deep_memory.json",
+      "existe": true,
+      "tamanho_bytes": 665925,
+      "hash_sha256": "8f187df05c4434c6f7a31b017d755220c74ec6ad114e4724aef1440e91863522",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc14-deep_memory.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC14-DEEP_MEMORY.MD\n## MEMÓRIA PROFUNDA E BASES DE CONHECIMENTO P..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc15-Dez2023NegociacaoInicialCtoRJ.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc15-Dez2023NegociacaoInicialCtoRJ.json",
+      "existe": true,
+      "tamanho_bytes": 554905,
+      "hash_sha256": "d923c4e8c8302234156141c40445a1c485f97967b3d98a0a91112ef9213fe26b",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc15-Dez2023NegociacaoInicialCtoRJ.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## DOC15: NEGOCIAÇÃO INICIAL CONTRATUAL DEZEMBRO 2023 - EVIDÊNCIA DE..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc16-DOCCEN-HistoricoContexto.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc16-DOCCEN-HistoricoContexto.json",
+      "existe": true,
+      "tamanho_bytes": 435763,
+      "hash_sha256": "cecfa8fdf6c48f8b29d732dab2373f5ca85b88c9e9d1513748b3bad6f4f6b588",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc16-DOCCEN-HistoricoContexto.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## DOC16: AVALIAÇÃO HISTÓRICA DA PRESTAÇÃO DE SERVIÇOS - DISCREPÂNCI..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc17-documentosbaseconhecimento.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc17-documentosbaseconhecimento.json",
+      "existe": true,
+      "tamanho_bytes": 1641508,
+      "hash_sha256": "8d2126a68b611f2619d9ad8df2824c7adcda0c34d4c40efca9594fffb79ed6b2",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc17-documentosbaseconhecimento.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## DOC17: EMAILS E CONDUÇÃO INADEQUADA - BASE DOCUMENTAL PARA NEGLIG..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc18-EstrategiasePilaresJun25Consol.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc18-EstrategiasePilaresJun25Consol.json",
+      "existe": true,
+      "tamanho_bytes": 361173,
+      "hash_sha256": "d27cec3797a9d4a0c3e38c473a42ea430615ef835328955f0416c16ba5edfc7a",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc18-EstrategiasePilaresJun25Consol.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## DOCUMENTO 18 - ESTRATÉGIAS E PILARES JUNHO 2025 CONSOLIDADO\n### A..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc19-evidence_index.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc19-evidence_index.json",
+      "existe": true,
+      "tamanho_bytes": 175301,
+      "hash_sha256": "3b49981c862fdfd83e0acef78b3292b668a8aec4351772179c3dfeb969e20906",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc19-evidence_index.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC19-EVIDENCE_INDEX.MD\n## ÍNDICE ESTRUTURADO DE EVIDÊNCIAS E CATA..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc20-evidencias_all.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc20-evidencias_all.json",
+      "existe": true,
+      "tamanho_bytes": 181086,
+      "hash_sha256": "f4059696284eafb0b5416df6ec1e3818afb0ff7ba731afc4927beab717cfb839",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc20-evidencias_all.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC20-EVIDENCIAS_ALL.MD\n## CONSOLIDAÇÃO INTEGRAL DE TODAS EVIDÊNCI..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc21-fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs01.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc21-fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs01.json",
+      "existe": true,
+      "tamanho_bytes": 669301,
+      "hash_sha256": "3f394c8d6940093e1338be84f05bce3c89271df2df361acecc04fe91a554efe6",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc21-fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs01.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## DOCUMENTO 21 - FUSÃO INTEGRADA GO2B RECUPERAÇÃO JUDICIAL GPT COM ..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc22-GitHubRawFilesAnalysis-Claude.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc22-GitHubRawFilesAnalysis-Claude.json",
+      "existe": true,
+      "tamanho_bytes": 129549,
+      "hash_sha256": "c98c4e64be3f562cac0cc2bb7146c348b79a2cd20fd48e8c0c75d1af90468b07",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc22-GitHubRawFilesAnalysis-Claude.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## DOCUMENTO 22 - GITHUB RAW FILES ANALYSIS CLAUDE\n### ANÁLISE METOD..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc23-go2b_analyses.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc23-go2b_analyses.json",
+      "existe": true,
+      "tamanho_bytes": 126457,
+      "hash_sha256": "cd0183e302a77d8da93a43f31cc5b42511acf84f109e92951cce4d89b13b2138",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc23-go2b_analyses.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC23-GO2B_ANALYSES.MD\n## ANÁLISES ANTERIORES GO2B, VALIDAÇÕES E C..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc24-go2b_embeddings_meta.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc24-go2b_embeddings_meta.json",
+      "existe": true,
+      "tamanho_bytes": 117682,
+      "hash_sha256": "f1303ce104e19611e55c20070bcbbb36de785cee248103e9f5cf9da63fb45b62",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc24-go2b_embeddings_meta.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE JURÍDICA DO DOCUMENTO doc24-go2b_embeddings_meta.md\n### P..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc25-go2b_faiss.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc25-go2b_faiss.json",
+      "existe": true,
+      "tamanho_bytes": 122632,
+      "hash_sha256": "2df404e1273bb9a9da4957bd0176e07fcec3c36112da4fdbb84e17de6df6969e",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc25-go2b_faiss.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC25-GO2B_FAISS.MD\n## ÍNDICES FAISS E BUSCA SEMÂNTICA ESPECIALIZA..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc26-go2b_kb.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc26-go2b_kb.json",
+      "existe": true,
+      "tamanho_bytes": 40073,
+      "hash_sha256": "7e76d3353c97dd31a6336dbf4c7ff51913980d68439abe8b9eda3f788db7b95c",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc26-go2b_kb.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC26-GO2B_KB.MD\n## BASE DE CONHECIMENTO JSONL E CORPUS TEXTUAL\n\n*..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc27-go2b_kb_for_bm25_cache.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc27-go2b_kb_for_bm25_cache.json",
+      "existe": true,
+      "tamanho_bytes": 79280,
+      "hash_sha256": "41641bb940fd892aea316e14f6858fe114d4d2c37ebc7fb1398569c24ff9f535",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc27-go2b_kb_for_bm25_cache.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC27-GO2B_KB_FOR_BM25_CACHE.MD\n## CACHE BM25 E OTIMIZAÇÃO DE BUSC..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc29-go2b_knowledge_base.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc29-go2b_knowledge_base.json",
+      "existe": true,
+      "tamanho_bytes": 75817,
+      "hash_sha256": "e2657a3f8126aba485894257ccfe75fe4500e20e85af4df07d0be1c328d90e08",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc29-go2b_knowledge_base.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - DOC29-GO2B_KNOWLEDGE_BASE.MD\n## BASE CONHECIMENTO JSON E ESTRUTURA..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc30-go2b_lexical_index.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc30-go2b_lexical_index.json",
+      "existe": true,
+      "tamanho_bytes": 57315,
+      "hash_sha256": "8f8f28e66b44b072141d8aaea095b44545d9cef16977b8561fcfbcc435a77633",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc30-go2b_lexical_index.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC30\n## ÍNDICE LEXICAL GO2B E TOKENIZAÇÃO ESPECIALIZADA\n\n**Proces..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc31-go2b_lookup.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc31-go2b_lookup.json",
+      "existe": true,
+      "tamanho_bytes": 59744,
+      "hash_sha256": "460e055f0ef7a1360d10d0ed6f55cdbfe2e715f64564c08abdbc7f311a58f2aa",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc31-go2b_lookup.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC31\n## SISTEMA LOOKUP E MAPEAMENTO DE REFERÊNCIAS GO2B\n\n**Proces..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc32-go2b_memoria_institucional.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc32-go2b_memoria_institucional.json",
+      "existe": true,
+      "tamanho_bytes": 77729,
+      "hash_sha256": "4f65944e98d00cde45c4d403c04893afd5dce9aa43f808e8b685f152feb4c3db",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc32-go2b_memoria_institucional.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE JURÍDICA DO DOCUMENTO doc32-go2b_memoria_institucional.md..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc33-go2b_vectorizer_config.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc33-go2b_vectorizer_config.json",
+      "existe": true,
+      "tamanho_bytes": 58808,
+      "hash_sha256": "1895411da375bccd71aa0145a41fa8899c09d74c284a94f054a360496e973a38",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc33-go2b_vectorizer_config.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC33\n## CONFIGURAÇÃO VECTORIZER E PARAMETRIZAÇÃO NLP GO2B\n\n**Proc..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc34-Go2b-InstitucionalGPT.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc34-Go2b-InstitucionalGPT.json",
+      "existe": true,
+      "tamanho_bytes": 61558,
+      "hash_sha256": "f28b985796d300a5e29c09e346b1384a755ca191326d9909498e4dba929c895c",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc34-Go2b-InstitucionalGPT.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE JURÍDICA DO DOCUMENTO doc34-Go2b-InstitucionalGPT.md\n### ..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc35-header.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc35-header.json",
+      "existe": true,
+      "tamanho_bytes": 49141,
+      "hash_sha256": "7f6afaf656877ea330975acac21090fac7f451e9a128e4b380917a66be5cf091",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc35-header.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC35\n## CABEÇALHOS BINÁRIOS E METADADOS ESTRUTURAIS GO2B\n\n**Proce..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc36-ImagensQuestoesResponder.jpg.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc36-ImagensQuestoesResponder.jpg.json",
+      "existe": true,
+      "tamanho_bytes": 171979,
+      "hash_sha256": "2ec1d7096674e6bc8ceea8e200aaf657269d4c68a08fa969cc3be61afad6db85",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc36-ImagensQuestoesResponder.jpg.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE JURÍDICA DO DOCUMENTO doc36-ImagensQuestoesResponder.md\n#..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc37-index_metadata.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc37-index_metadata.json",
+      "existe": true,
+      "tamanho_bytes": 37086,
+      "hash_sha256": "eaa68f396e300df9e11092c76e49e8a6138936d917a1171ac21cf6e50fdd1e94",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc37-index_metadata.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC37\n## ANÁLISE DE METADADOS DE INDEXAÇÃO E CONFIGURAÇÕES PICKLE\n..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc38-knowledge_index.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc38-knowledge_index.json",
+      "existe": true,
+      "tamanho_bytes": 37272,
+      "hash_sha256": "169d80c0cc164b391bf6b376757139b74e758555a70eb4fc78f0669b40391ffc",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc38-knowledge_index.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC38\n## ANÁLISE DE ÍNDICE DE CONHECIMENTO E ORGANIZAÇÃO TEMÁTICA\n..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc39-LegalDocumentAnalysisProtocol-Claude.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc39-LegalDocumentAnalysisProtocol-Claude.json",
+      "existe": true,
+      "tamanho_bytes": 45627,
+      "hash_sha256": "3da85d5a76cd0b60ba6b81a8d10d5cd3cd19044751effc3895ead7fb3a795399",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc39-LegalDocumentAnalysisProtocol-Claude.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE DO PROTOCOLO DE ANÁLISE DOCUMENTAL LEGAL - CLAUDE (doc39)..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc40-LegalDocumentMatrixAnalysis-Claude.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc40-LegalDocumentMatrixAnalysis-Claude.json",
+      "existe": true,
+      "tamanho_bytes": 59749,
+      "hash_sha256": "adc02a77cb91ce1bfaf309a5dec32e11c6b05beceae75473e7d014dc423c03f2",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc40-LegalDocumentMatrixAnalysis-Claude.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE MATRICIAL DOCUMENTAL LEGAL - CLAUDE (doc40)\n\n**Processo:*..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc41-length.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc41-length.json",
+      "existe": true,
+      "tamanho_bytes": 31389,
+      "hash_sha256": "9af0aee8cec0043da405aa3185c88b9d345529e9f0e53be2c7140e0d544e4a88",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc41-length.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC41\n## ANÁLISE DE ESTRUTURAS DE COMPRIMENTO E OTIMIZAÇÃO BINÁRIA..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc42-link_lists.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc42-link_lists.json",
+      "existe": true,
+      "tamanho_bytes": 29747,
+      "hash_sha256": "b050977f5caee52e2f85cafb0dd8b7b0eec1246d2c66b97ae60149d208395adf",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc42-link_lists.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC42\n## ANÁLISE DE LISTAS LINKADAS E RELACIONAMENTOS COMPLEXOS\n##..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc44-matrix_summary.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc44-matrix_summary.json",
+      "existe": true,
+      "tamanho_bytes": 25578,
+      "hash_sha256": "5a02b56f9e6924c5834ce1f5865bcc0fccff9f91bd723575d6823f5e9ab606b2",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc44-matrix_summary.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - SUMÁRIO MATRICIAL CONSOLIDADO\n## CASO GO2B vs PL CONSULTORIA/ECT -..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc45-matriz_unificada_go2b_v7.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc45-matriz_unificada_go2b_v7.json",
+      "existe": true,
+      "tamanho_bytes": 167827,
+      "hash_sha256": "0bb8a70a36a0b22c9f73c4e2279fa1096c041675128643b46825262b17440647",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc45-matriz_unificada_go2b_v7.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - MATRIZ UNIFICADA GO2B V7\n## INTEGRAÇÃO SISTÊMICA E CONSOLIDAÇÃO EV..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc46-MEGA_CONTEXT.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc46-MEGA_CONTEXT.json",
+      "existe": true,
+      "tamanho_bytes": 107807,
+      "hash_sha256": "a99d09488ca0bb652108a0de44d80a0a99099a15e7589df30311a799c45d5695",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc46-MEGA_CONTEXT.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - CONTEXTO MEGA CONSOLIDADO\n## VISÃO INTEGRAL E INTERRELAÇÕES SISTÊM..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc47-memoriainstitucional.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc47-memoriainstitucional.json",
+      "existe": true,
+      "tamanho_bytes": 94918,
+      "hash_sha256": "b231533b9ddc63c901cae8ae3b0720bc0f4ef443ec04dafa11a8b35312b2fee8",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc47-memoriainstitucional.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE DA MEMÓRIA INSTITUCIONAL CONSOLIDADA - GO2B (doc47)\n\n**Pr..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc48-memory_config.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc48-memory_config.json",
+      "existe": true,
+      "tamanho_bytes": 22526,
+      "hash_sha256": "8cc6cc5a7cdbe7c7d7a08037b8db3cceb87206e8fb2e750c6125b4b19a6f6fa2",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc48-memory_config.md",
+          "conteudo": "# ANÁLISE TÉCNICA ESPECIALIZADA - CONFIGURAÇÃO DE MEMÓRIA\n## PARÂMETROS SISTEMA E LIMITAÇÕES IDENTIF..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc49-ContextoeHistoricoImp.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc49-ContextoeHistoricoImp.json",
+      "existe": true,
+      "tamanho_bytes": 241477,
+      "hash_sha256": "57b7f979eb07733c426e0dc431931449e26f28628a18b425e154ab8a2c2649eb",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc49-ContextoeHistoricoImp.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE DO CONTEXTO E HISTÓRICO CRÍTICO - GO2B (doc49)\n\n**Process..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc50-chatsclaudeprojeto.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc50-chatsclaudeprojeto.json",
+      "existe": true,
+      "tamanho_bytes": 1277370,
+      "hash_sha256": "85cadc17ab640a9d46c3d652f40837d9f3bc970cb93eb143297925885c11c914",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc50-chatsclaudeprojeto.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOC50: CHATS CLAUDE PROJETO - ANÁLISE DE EVOLUÇÃO RACION..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc51-MPF-JuntadaAutosECT-Completo-vs25082025.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc51-MPF-JuntadaAutosECT-Completo-vs25082025.json",
+      "existe": true,
+      "tamanho_bytes": 1401423,
+      "hash_sha256": "90be9caa2d45524100c109ded9b42d3ed5e5be25e0ca4bf2bf46daba3ae249db",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc51-MPF-JuntadaAutosECT-Completo-vs25082025.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOC51: MPF-JUNTADA AUTOS ECT-COMPLETO-VS25082025\n\n### Pr..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc52-PadraoAtuacaoPL-Dagoberto-Exemplo.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc52-PadraoAtuacaoPL-Dagoberto-Exemplo.json",
+      "existe": true,
+      "tamanho_bytes": 28388,
+      "hash_sha256": "73594057f709d86e810752edf106a03c6fed4193d10de4d515a54c6d20f888bf",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc52-PadraoAtuacaoPL-Dagoberto-Exemplo.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOC52: PADRÃO ATUAÇÃO PL-DAGOBERTO-EXEMPLO\n\n### Processo..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc53-Peticao09062025-1039604-94.2023.8.26.0405.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc53-Peticao09062025-1039604-94.2023.8.26.0405.json",
+      "existe": true,
+      "tamanho_bytes": 75390,
+      "hash_sha256": "a8997d8ad798e468ac36e366e94ca4c5b3558f0006a5d82993b69c26187fece2",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc53-Peticao09062025-1039604-94.2023.8.26.0405.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOC53: PETIÇÃO 09/06/2025 - REGULARIZAÇÃO REPRESENTAÇÃO\n..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc54-PosicionamentoPL-QuestionamentosAgo2024.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc54-PosicionamentoPL-QuestionamentosAgo2024.json",
+      "existe": true,
+      "tamanho_bytes": 43635,
+      "hash_sha256": "63403376bbfb69e634b38232a5f5d77a7da19375447ce582be9b6eb15751ab65",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc54-PosicionamentoPL-QuestionamentosAgo2024.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOCUMENTO 54\n## PADRÃO COMPORTAMENTAL PL CONSULTORIA/DAGOBERTO - A..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc55-PosicionamentoPL-QuestionamentosJul2024.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc55-PosicionamentoPL-QuestionamentosJul2024.json",
+      "existe": true,
+      "tamanho_bytes": 99592,
+      "hash_sha256": "b0cf1c5aaa159cb521e8536713258bf390e280af6896ff5f191c8c78c9560d35",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc55-PosicionamentoPL-QuestionamentosJul2024.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOCUMENTO 55\n## PADRÃO COMPORTAMENTAL PL CONSULTORIA/DAGOBERTO - J..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc56-PosicionamentoPL-QuestionamentosSet2024.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc56-PosicionamentoPL-QuestionamentosSet2024.json",
+      "existe": true,
+      "tamanho_bytes": 63679,
+      "hash_sha256": "9b64158b7128c8a3cd808127f28ebf2bb930047ad4e27d130a24f98fd47be887",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc56-PosicionamentoPL-QuestionamentosSet2024.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOCUMENTO 56\n## PADRÃO COMPORTAMENTAL PL CONSULTORIA/DAGOBERTO - S..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc57-PosicionamentoPL-SuspensaoQuestionados.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc57-PosicionamentoPL-SuspensaoQuestionados.json",
+      "existe": true,
+      "tamanho_bytes": 49048,
+      "hash_sha256": "9476b39d939eb504e6b1ddad68781f83a82872383c7b75ecbe8cf043abb5001e",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc57-PosicionamentoPL-SuspensaoQuestionados.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOCUMENTO 57\n## PARADIGMA DE CONDUÇÃO PL CONSULTORIA QUANDO QUESTI..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc59-ProcessoqueResultouApropriacaoCredito-Dagoberto.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc59-ProcessoqueResultouApropriacaoCredito-Dagoberto.json",
+      "existe": true,
+      "tamanho_bytes": 48236,
+      "hash_sha256": "1fe475202ea5bef7aec0dd9a734cbaa517b7a824e8f725ff55f76a382d66fc9d",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc59-ProcessoqueResultouApropriacaoCredito-Dagoberto.md",
+          "conteudo": "# PARECER TÉCNICO JURÍDICO\n## DOCUMENTO 59: APROPRIAÇÃO INDÉBITA CMZ - PERSPECTIVA CEO DAGOBERTO MEL..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc60-ProcessoqueResultouApropriacaoCredito-Dirceu.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc60-ProcessoqueResultouApropriacaoCredito-Dirceu.json",
+      "existe": true,
+      "tamanho_bytes": 51560,
+      "hash_sha256": "929d2df5a40c01b2cfc0252d83e1031eb72b339b3bda11b525617f320f1d12ea",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc60-ProcessoqueResultouApropriacaoCredito-Dirceu.md",
+          "conteudo": "# PARECER TÉCNICO JURÍDICO\n## DOCUMENTO 60: APROPRIAÇÃO INDÉBITA CMZ - PERSPECTIVA ADVOGADO DR. DIRC..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc61-proposed_architecture.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc61-proposed_architecture.json",
+      "existe": true,
+      "tamanho_bytes": 22031,
+      "hash_sha256": "c2c1840b32a04547b66f101e7e76daf21b696edce11def4f42c56440a12cf473",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc61-proposed_architecture.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC61\n## ARQUITETURA PROPOSTA PARA SISTEMA DE ANÁLISE DE EVIDÊNCIA..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc62-relatorio_fases_1_2_3_4_consolidadoCompletoTemas.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc62-relatorio_fases_1_2_3_4_consolidadoCompletoTemas.json",
+      "existe": true,
+      "tamanho_bytes": 331659,
+      "hash_sha256": "851311c4bb506eb2e788c5a9b9a91350e601010b5c583a169fa494d6e6d7744c",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc62-relatorio_fases_1_2_3_4_consolidadoCompletoTemas.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC62\n## Análise Consolidada da Recuperação Judicial GO2B\n### Proc..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc63-relatorio_fases_complemento_dossie-mafia-judicial-go2b.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc63-relatorio_fases_complemento_dossie-mafia-judicial-go2b.json",
+      "existe": true,
+      "tamanho_bytes": 75307,
+      "hash_sha256": "c903cd0b15b5e64e6031e4f8cdc4c0f5e68d958203a1ded4094e00a8c357a90e",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc63-relatorio_fases_complemento_dossie-mafia-judicial-go2b.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC63\n## Análise Cautelosa de Suspeitas sobre Possível Máfia Judic..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc64-RelatorioTrocaDNS19052025.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc64-RelatorioTrocaDNS19052025.json",
+      "existe": true,
+      "tamanho_bytes": 98090,
+      "hash_sha256": "3c7ccd98dc563c2616d488a03aff6e28b34ab9f23061664014f13a281f616181",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc64-RelatorioTrocaDNS19052025.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOCUMENTO doc64 - RELATÓRIO TROCA DNS 19/05/2025\n\n**Proc..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc65-temporal_index.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc65-temporal_index.json",
+      "existe": true,
+      "tamanho_bytes": 20454,
+      "hash_sha256": "d3e32df35e957cbeac4defaa93c274df4873d27b1d149b799a645fb5435b7c07",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc65-temporal_index.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC65\n## CRONOLOGIA CRIMINAL E ÍNDICE TEMPORAL CONSOLIDADO\n\n**Proc..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc66-memory_prompt_claude.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc66-memory_prompt_claude.json",
+      "existe": true,
+      "tamanho_bytes": 33243,
+      "hash_sha256": "c74be72e12ed8d96eddbafc7ff185077fff5539839a32a492939bdc9094aba06",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc66-memory_prompt_claude.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOCUMENTO doc66 - MEMORY PROMPT CLAUDE 20/08/2025\n\n**Pro..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc67-fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs02.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc67-fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs02.json",
+      "existe": true,
+      "tamanho_bytes": 1049024,
+      "hash_sha256": "65642761c34618bca2e80c82d62b0b32b1975196d54739e5dacf99ad40b03a3c",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc67-fusaointegradaGo2bRecupJudicialGPTcomEnviodocsvs02.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOCUMENTO doc67 - FUSÃO INTEGRADA GO2B RECUPERAÇÃO JUDIC..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc68-RoteiroeAnexosTodos26082025.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc68-RoteiroeAnexosTodos26082025.json",
+      "existe": true,
+      "tamanho_bytes": 5070353,
+      "hash_sha256": "2952b5a2db90c454cb64c43a5b1c17c693a96625ccbc6e850dcc3725f8a05399",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc68-RoteiroeAnexosTodos26082025.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC68\n## ROTEIRO PROCESSUAL COMPLETO E ESTRATÉGIA EXECUTIVA\n\n**Pro..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc69-BaseRevisaoInteligence.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc69-BaseRevisaoInteligence.json",
+      "existe": true,
+      "tamanho_bytes": 76957,
+      "hash_sha256": "ee7b423d53d40cf7cc8b9ac30f43c91e39749534801bae8625b55c1ce9284b0d",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc69-BaseRevisaoInteligence.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO - DOC69\n## BASE DE REVISÃO INTELLIGENCE E ESTRATÉGIA INTEGRADA\n\n**Pr..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc70-RecuperacaoJudicialProcessosJudicialAnalise-ComProcesso.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc70-RecuperacaoJudicialProcessosJudicialAnalise-ComProcesso.json",
+      "existe": true,
+      "tamanho_bytes": 28044,
+      "hash_sha256": "c3f150ad2be3821ff75373114d29e98e07aa2b25b6e01dc1e3172abec381e9d4",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc70-RecuperacaoJudicialProcessosJudicialAnalise-ComProcesso.md",
+          "conteudo": "# PARECER TÉCNICO-JURÍDICO ESPECIALIZADO\n## DOC70: Análise Processual da Recuperação Judicial GO2B\n#..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc71-MEMORY_GO2B_RECONCILIADO_API_v5.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc71-MEMORY_GO2B_RECONCILIADO_API_v5.json",
+      "existe": true,
+      "tamanho_bytes": 46444,
+      "hash_sha256": "d3694e0b713f1077effb3ef4e3b7c7a9e377462bd4d1e3a591b5404e8c912524",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc71-MEMORY_GO2B_RECONCILIADO_API_v5.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE DOCUMENTO doc71-MEMORY_GO2B_RECONCILIADO_API_v5.md\n\n---\n\n..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc72-Artefatos_AvaliacaoMegajonsReconciliada.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc72-Artefatos_AvaliacaoMegajonsReconciliada.json",
+      "existe": true,
+      "tamanho_bytes": 25797,
+      "hash_sha256": "2f21701e063f21d12f237acb3a654e419b20e424ced12bab0bd9d35bb272c3cf",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc72-Artefatos_AvaliacaoMegajonsReconciliada.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n## ANÁLISE DOCUMENTO doc72-Artefatos_AvaliacaoMegajonsReconciliada.m..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc73-ModeloInteligenciaCorrelacoesConfianca.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc73-ModeloInteligenciaCorrelacoesConfianca.json",
+      "existe": true,
+      "tamanho_bytes": 33456,
+      "hash_sha256": "0c7f32f6e2a4aba269d5a7687c0536aff5a9875afcbf4d83a9ed6386dae4a234",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc73-ModeloInteligenciaCorrelacoesConfianca.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n\n**PROCESSO:** 1039604-94.2023.8.26.0405 (TJSP)  \n**INQUÉRITO MPF:**..."
+        }
+      },
+      "erros": []
+    },
+    {
+      "arquivo": "doc74-fusaoartefatos_a_b_c_Incompletovsclaude.json",
+      "caminho": "/Users/AdrianoHamu/Desktop/BaseConhecimento/RecupJudicial05062025/BaseAvaliação-Ago2025/DocsUsadosOrientacao/documentosconhecimento/docs-jsonspordoc/doc74-fusaoartefatos_a_b_c_Incompletovsclaude.json",
+      "existe": true,
+      "tamanho_bytes": 135439,
+      "hash_sha256": "44466ccc27eac817d825e4aaef04e9a23f7d01e1fa5a1f82c12b41e2be2ab580",
+      "json_valido": true,
+      "campos_total": 17,
+      "campos_fusion": [],
+      "campos_v2": [
+        "referencia_md_acessivel",
+        "referencia_md_omniconvert",
+        "analise_ia_real"
+      ],
+      "campos_faltando": [
+        "id_documento",
+        "nome_arquivo",
+        "categoria",
+        "subcategoria",
+        "prioridade_processual",
+        "relevancia_juridica",
+        "conteudo_estruturado",
+        "tags_semanticas",
+        "relacionamentos",
+        "contexto_processual",
+        "evidencias",
+        "timestamp_criacao",
+        "versao"
+      ],
+      "verdades_juridicas": {
+        "apropriacao_cmz": true,
+        "inquerito_mpf": true,
+        "desassistencia": true,
+        "processo_rj": true,
+        "ect_debito": true
+      },
+      "conteudo_amostra": {
+        "analise_ia_real": {
+          "status": "concluido",
+          "fonte_md": "analiseIA_doc74-fusaoartefatos_a_b_c_Incompletovsclaude.md",
+          "conteudo": "# PARECER TÉCNICO ESPECIALIZADO\n\n**PROCESSO:** 1039604-94.2023.8.26.0405 (TJSP)  \n**INQUÉRITO MPF:**..."
+        }
+      },
+      "erros": []
+    }
+  ],
+  "problemas_criticos": [],
+  "verdades_status": {
+    "apropriacao_cmz": {
+      "arquivos_com_verdade": 71,
+      "percentual": 100.0
+    },
+    "inquerito_mpf": {
+      "arquivos_com_verdade": 71,
+      "percentual": 100.0
+    },
+    "desassistencia": {
+      "arquivos_com_verdade": 71,
+      "percentual": 100.0
+    },
+    "processo_rj": {
+      "arquivos_com_verdade": 71,
+      "percentual": 100.0
+    },
+    "ect_debito": {
+      "arquivos_com_verdade": 71,
+      "percentual": 100.0
+    }
+  },
+  "estatisticas": {
+    "distribuicao_tamanhos": {},
+    "campos_mais_ausentes": {
+      "id_documento": 71,
+      "nome_arquivo": 71,
+      "categoria": 71,
+      "subcategoria": 71,
+      "prioridade_processual": 71,
+      "relevancia_juridica": 71,
+      "conteudo_estruturado": 71,
+      "tags_semanticas": 71,
+      "relacionamentos": 71,
+      "contexto_processual": 71
+    },
+    "encoding_issues": 0
+  }
+}
